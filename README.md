@@ -4,6 +4,12 @@
 
 目前包含 **43 款圖示 × 3 種尺寸（128／256／512 px）＝ 129 張 PNG**。對應 **28 個服務組、26 個地區組與 4 個訂閱來源分類**；多個策略組可共用同一款圖示。所有 PNG 都經本地尺寸與 Alpha 通道檢查。實際 Surge iOS／macOS 顯示效果仍建議在設備上驗收。
 
+## 📌 更新紀錄
+
+- **2026-11-08**：已更新 8 款純圖案透明底策略組圖示：Grok (xai)、Twitter 藍鳥、TikTok 純黑音符、Cryptocurrency 比特幣、Disney+、Global Media、Other、FINAL（漏網之魚）。
+- 8 款皆覆蓋 `png/128/`、`png/256/`、`png/512/` 原有檔名，既有 Surge `icon-url` 不必修改；可編輯向量圖存放在 `sources/production/`。
+- Apple Intelligence / Siri AI 暫不修改，待新設計確認後才更新。現有全套深淺色總覽仍是首次上架時的預覽，未反映這次八款更新，請以 `png/` 目錄實際檔案為準。
+
 ## 👀 預覽
 
 ### 深色模式
