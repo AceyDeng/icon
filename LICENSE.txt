@@ -1,0 +1,14 @@
+This package combines assets under separate licenses; it is NOT relicensed as a whole.
+
+Original concept SVG artwork created for this package is dedicated under CC0 1.0:
+https://creativecommons.org/publicdomain/zero/1.0/
+To the extent possible under law, the creator waives copyright and related rights in
+the original concept artwork. No warranty is given. This does not waive trademark rights.
+
+Twemoji artwork: CC BY 4.0, Twitter, Inc. and other contributors.
+Lobe Icons and Oasisic Icons: MIT; see included license texts.
+Simple Icons: CC0-1.0; see included license texts and per-asset manifest.
+Disney+ SVG: Wikimedia Commons PD-textlogo classification; trademark rights remain.
+
+All third-party trademarks remain the property of their respective owners.
+See CREDITS.md and manifest.json for attribution, source URLs, and transformations.
