@@ -133,20 +133,20 @@
         "bytes": 756,
         "sha256": "9175fc90c22655160231976c849f25a03b888d7cc0e04c5f1b987b659bb07c95"
       },
-      "color": "#18202b",
-      "outline": true,
+      "color": "#000000",
+      "outline": false,
       "concept": false,
-      "note": "Grok 標記；加沿圖形的白色細描邊，兼顧深淺背景。",
+      "note": "2026-11-08：純黑 Grok 斜切圓環圖案，透明背景；不加描邊。",
       "png": {
         "128": "png/128/xai.png",
         "256": "png/256/xai.png",
         "512": "png/512/xai.png"
       },
-      "source_file": "sources/original/xai.svg",
+      "source_file": "sources/production/xai.svg",
       "source_sha256": "9175fc90c22655160231976c849f25a03b888d7cc0e04c5f1b987b659bb07c95",
       "source_native_size": null,
-      "url": null,
-      "deployment_status": "local_only_requires_public_https_deployment"
+      "url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/xai.png",
+      "deployment_status": "published_to_aceydenng_icon"
     },
     {
       "id": "meta-ai",
@@ -215,19 +215,19 @@
         "sha256": "693e68863eceb8dc9f72e2acd386ab9c20a10858dab2c076212f7084cb7a32fe"
       },
       "color": "#18202b",
-      "outline": true,
+      "outline": false,
       "concept": false,
-      "note": "沿用既有 X 語義；黑形加白細描邊。",
+      "note": "2026-11-08：經典 Twitter 藍色小鳥圖案，透明背景；不是 X 字標。",
       "png": {
         "128": "png/128/twitter.png",
         "256": "png/256/twitter.png",
         "512": "png/512/twitter.png"
       },
-      "source_file": "sources/original/twitter.svg",
+      "source_file": "sources/production/twitter.svg",
       "source_sha256": "693e68863eceb8dc9f72e2acd386ab9c20a10858dab2c076212f7084cb7a32fe",
       "source_native_size": null,
-      "url": null,
-      "deployment_status": "local_only_requires_public_https_deployment"
+      "url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/twitter.png",
+      "deployment_status": "published_to_aceydenng_icon"
     },
     {
       "id": "line",
@@ -320,20 +320,20 @@
         "bytes": 707,
         "sha256": "6f54ac8d325faacea8935bdc44cbed60206a6b408641799e5fea1cba7c1a0af7"
       },
-      "color": "#18202b",
-      "outline": true,
+      "color": "#000000",
+      "outline": false,
       "concept": false,
-      "note": "主形加青紅偏移與白細描邊，非 App 底板。",
+      "note": "2026-11-08：純黑 TikTok 音符圖案，透明背景；無青紅偏移或白邊。",
       "png": {
         "128": "png/128/tiktok.png",
         "256": "png/256/tiktok.png",
         "512": "png/512/tiktok.png"
       },
-      "source_file": "sources/original/tiktok.svg",
+      "source_file": "sources/production/tiktok.svg",
       "source_sha256": "6f54ac8d325faacea8935bdc44cbed60206a6b408641799e5fea1cba7c1a0af7",
       "source_native_size": null,
-      "url": null,
-      "deployment_status": "local_only_requires_public_https_deployment"
+      "url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tiktok.png",
+      "deployment_status": "published_to_aceydenng_icon"
     },
     {
       "id": "yahoo",
@@ -431,17 +431,17 @@
       "color": "#269bd5",
       "outline": false,
       "concept": false,
-      "note": "獨立 Disney+ 標誌；深淺共用藍色處理。 最終PNG依原形統一為深淺通用中明度藍色／青色，未改字形。",
+      "note": "2026-11-08：Disney+ 藍色字樣及弧線，無獨立底板。",
       "png": {
         "128": "png/128/disney-plus.png",
         "256": "png/256/disney-plus.png",
         "512": "png/512/disney-plus.png"
       },
-      "source_file": "sources/original/disney-plus.svg",
+      "source_file": "sources/production/disney-plus.svg",
       "source_sha256": "ad0ea07cb6627c268dae721d9647019e6e3ce1b51c8f4ba8ec8ddf4618546140",
       "source_native_size": null,
-      "url": null,
-      "deployment_status": "local_only_requires_public_https_deployment"
+      "url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/disney-plus.png",
+      "deployment_status": "published_to_aceydenng_icon"
     },
     {
       "id": "bilibili",
@@ -513,17 +513,17 @@
       "color": null,
       "outline": false,
       "concept": true,
-      "note": "非官方原創概念圖示。地球及播放三角。",
+      "note": "2026-11-08：抽象播放與環繞圖形，透明背景。",
       "png": {
         "128": "png/128/global-media.png",
         "256": "png/256/global-media.png",
         "512": "png/512/global-media.png"
       },
-      "source_file": "sources/original/global-media.svg",
+      "source_file": "sources/production/global-media.svg",
       "source_sha256": "a2bbce3087c1c873473eb8ecac7047aa277d22e5fc520bd0af9505f924ac9f3b",
       "source_native_size": null,
-      "url": null,
-      "deployment_status": "local_only_requires_public_https_deployment"
+      "url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/global-media.png",
+      "deployment_status": "published_to_aceydenng_icon"
     },
     {
       "id": "spotify",
@@ -621,20 +621,20 @@
       "color": null,
       "outline": false,
       "concept": false,
-      "note": "保留原512px透明硬幣圖；圓形為硬幣圖形本體。",
+      "note": "2026-11-08：橙色 Bitcoin ₿ 符號，透明背景。",
       "png": {
         "128": "png/128/cryptocurrency.png",
         "256": "png/256/cryptocurrency.png",
         "512": "png/512/cryptocurrency.png"
       },
-      "source_file": "sources/original/cryptocurrency.png",
+      "source_file": "sources/production/cryptocurrency.svg",
       "source_sha256": "a865f5231cda3a535d95daf12dbc60e4b6b5b4ae453d0ac5d3484efe94b605c4",
       "source_native_size": [
         512,
         512
       ],
-      "url": null,
-      "deployment_status": "local_only_requires_public_https_deployment"
+      "url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/cryptocurrency.png",
+      "deployment_status": "published_to_aceydenng_icon"
     },
     {
       "id": "other",
@@ -649,17 +649,17 @@
       "color": null,
       "outline": false,
       "concept": true,
-      "note": "非官方原創概念圖示。通用地球。",
+      "note": "2026-11-08：藍紫色模組圖形，透明背景。",
       "png": {
         "128": "png/128/other.png",
         "256": "png/256/other.png",
         "512": "png/512/other.png"
       },
-      "source_file": "sources/original/other.svg",
+      "source_file": "sources/production/other.svg",
       "source_sha256": "8a044d215299b6dd4e47e61f5aea5c9cfa64f531e1f6618ec95f02cc8426b1dc",
       "source_native_size": null,
-      "url": null,
-      "deployment_status": "local_only_requires_public_https_deployment"
+      "url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/other.png",
+      "deployment_status": "published_to_aceydenng_icon"
     },
     {
       "id": "speed-test",
@@ -751,17 +751,17 @@
       "color": null,
       "outline": false,
       "concept": true,
-      "note": "非官方原創概念圖示。路由收束及終點旗標。",
+      "note": "2026-11-08：漏網之魚圖形，透明背景。",
       "png": {
         "128": "png/128/final.png",
         "256": "png/256/final.png",
         "512": "png/512/final.png"
       },
-      "source_file": "sources/original/final.svg",
+      "source_file": "sources/production/final.svg",
       "source_sha256": "671741cf036a7b2cc9d3f15328004d0b63ab0761e7aeeecab6eb14f9402ab847",
       "source_native_size": null,
-      "url": null,
-      "deployment_status": "local_only_requires_public_https_deployment"
+      "url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/final.png",
+      "deployment_status": "published_to_aceydenng_icon"
     },
     {
       "id": "blueberry",
@@ -1192,8 +1192,8 @@
       "png_256": "png/256/xai.png",
       "png_512": "png/512/xai.png",
       "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/xai.png",
-      "deployment_status": "需公開部署後填入HTTPS網址",
-      "note": "Grok 標記；加沿圖形的白色細描邊，兼顧深淺背景。"
+      "deployment_status": "已部署到 AceyDeng/icon",
+      "note": "2026-11-08：純黑 Grok 斜切圓環圖案，透明背景；不加描邊。"
     },
     {
       "group": "META AI",
@@ -1225,8 +1225,8 @@
       "png_256": "png/256/twitter.png",
       "png_512": "png/512/twitter.png",
       "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/twitter.png",
-      "deployment_status": "需公開部署後填入HTTPS網址",
-      "note": "沿用既有 X 語義；黑形加白細描邊。"
+      "deployment_status": "已部署到 AceyDeng/icon",
+      "note": "2026-11-08：經典 Twitter 藍色小鳥圖案，透明背景；不是 X 字標。"
     },
     {
       "group": "LINE",
@@ -1269,8 +1269,8 @@
       "png_256": "png/256/tiktok.png",
       "png_512": "png/512/tiktok.png",
       "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tiktok.png",
-      "deployment_status": "需公開部署後填入HTTPS網址",
-      "note": "主形加青紅偏移與白細描邊，非 App 底板。"
+      "deployment_status": "已部署到 AceyDeng/icon",
+      "note": "2026-11-08：純黑 TikTok 音符圖案，透明背景；無青紅偏移或白邊。"
     },
     {
       "group": "YAHOO",
@@ -1313,8 +1313,8 @@
       "png_256": "png/256/disney-plus.png",
       "png_512": "png/512/disney-plus.png",
       "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/disney-plus.png",
-      "deployment_status": "需公開部署後填入HTTPS網址",
-      "note": "獨立 Disney+ 標誌；深淺共用藍色處理。 最終PNG依原形統一為深淺通用中明度藍色／青色，未改字形。"
+      "deployment_status": "已部署到 AceyDeng/icon",
+      "note": "2026-11-08：Disney+ 藍色字樣及弧線，無獨立底板。"
     },
     {
       "group": "BILIBILI",
@@ -1346,8 +1346,8 @@
       "png_256": "png/256/global-media.png",
       "png_512": "png/512/global-media.png",
       "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/global-media.png",
-      "deployment_status": "需公開部署後填入HTTPS網址",
-      "note": "非官方原創概念圖示。地球及播放三角。"
+      "deployment_status": "已部署到 AceyDeng/icon",
+      "note": "2026-11-08：抽象播放與環繞圖形，透明背景。"
     },
     {
       "group": "SPOTIFY",
@@ -1390,8 +1390,8 @@
       "png_256": "png/256/cryptocurrency.png",
       "png_512": "png/512/cryptocurrency.png",
       "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/cryptocurrency.png",
-      "deployment_status": "需公開部署後填入HTTPS網址",
-      "note": "保留原512px透明硬幣圖；圓形為硬幣圖形本體。"
+      "deployment_status": "已部署到 AceyDeng/icon",
+      "note": "2026-11-08：橙色 Bitcoin ₿ 符號，透明背景。"
     },
     {
       "group": "OTHER",
@@ -1401,8 +1401,8 @@
       "png_256": "png/256/other.png",
       "png_512": "png/512/other.png",
       "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/other.png",
-      "deployment_status": "需公開部署後填入HTTPS網址",
-      "note": "非官方原創概念圖示。通用地球。"
+      "deployment_status": "已部署到 AceyDeng/icon",
+      "note": "2026-11-08：藍紫色模組圖形，透明背景。"
     },
     {
       "group": "SPEED TEST",
@@ -1445,8 +1445,8 @@
       "png_256": "png/256/final.png",
       "png_512": "png/512/final.png",
       "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/final.png",
-      "deployment_status": "需公開部署後填入HTTPS網址",
-      "note": "非官方原創概念圖示。路由收束及終點旗標。"
+      "deployment_status": "已部署到 AceyDeng/icon",
+      "note": "2026-11-08：漏網之魚圖形，透明背景。"
     },
     {
       "group": "CN",
@@ -2284,5 +2284,17 @@
     }
   ],
   "published_repository": "https://github.com/AceyDeng/icon",
-  "raw_base_url": "https://raw.githubusercontent.com/AceyDeng/icon/main"
+  "raw_base_url": "https://raw.githubusercontent.com/AceyDeng/icon/main",
+  "last_icon_update": "2026-11-08",
+  "last_icon_update_assets": [
+    "xai",
+    "twitter",
+    "tiktok",
+    "cryptocurrency",
+    "disney-plus",
+    "global-media",
+    "other",
+    "final"
+  ],
+  "apple_intelligence_pending_redesign": true
 }
