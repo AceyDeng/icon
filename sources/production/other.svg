@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><title>other — original unofficial concept</title><defs></defs><circle cx="128" cy="128" r="86" fill="none" stroke="#2799dc" stroke-width="15"/><ellipse cx="128" cy="128" rx="39" ry="86" fill="none" stroke="#2799dc" stroke-width="12"/><path d="M44 128h168M56 86h144M56 170h144" fill="none" stroke="#2799dc" stroke-width="11"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Other · miscellaneous service tiles — isolated transparent glyph</title><defs/><rect x="111" y="114" width="127" height="127" rx="30" fill="#2D8BE8"/>
+<rect x="274" y="114" width="127" height="127" rx="30" fill="#A970EC"/>
+<rect x="111" y="277" width="127" height="127" rx="30" fill="#12BDD6"/>
+<rect x="274" y="277" width="127" height="127" rx="30" fill="#7B65C8"/>
+</svg>

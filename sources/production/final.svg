@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><title>final — original unofficial concept</title><defs></defs><g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"><path d="M28 52H62Q80 52 80 70V110Q80 128 100 128H171M28 204H62Q80 204 80 186V146Q80 128 100 128" stroke="#4b9ee7"/><path d="M30 128h141m-22-24 24 24-24 24" stroke="#35b59c"/><path d="M196 56v150" stroke="#8d72d9"/></g><path d="M202 46h38v30h-38zM202 76h19v30h-19zM221 106h19v30h-19z" fill="#8d72d9"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>FINAL · the fish that escaped the net (unmatched traffic) — isolated transparent glyph</title><defs/><!-- Open net in upper-left, enough white space to see fish escaping. -->
+<g fill="none" stroke="#92DDFB" stroke-width="14" stroke-linecap="round" opacity=".94">
+<path d="M61 78Q147 123 229 104M64 136Q135 180 204 174M66 195Q126 234 176 228"/>
+<path d="M93 71Q81 142 79 218M157 89Q123 157 104 233M226 105Q176 156 139 234"/>
+</g>
+<!-- Fish swimming free, clear separation from broken net. -->
+<g transform="rotate(-19 305 289)">
+<path d="M225 288L171 244Q158 233 158 253L158 330Q159 344 172 332L225 302Z" fill="#168FCE"/>
+<path d="M215 284Q267 223 330 225Q408 227 441 286Q407 346 327 349Q261 350 215 302Z" fill="#168FCE"/>
+<path d="M288 235L324 201L329 239" fill="#168FCE"/>
+<circle cx="384" cy="273" r="11" fill="#15344C"/>
+<path d="M276 270Q292 288 275 305" stroke="#15344C" stroke-width="10" stroke-linecap="round" fill="none" opacity=".55"/>
+</g>
+<path d="M170 372l-16 14M209 390l-20 17" stroke="#168FCE" stroke-width="13" stroke-linecap="round"/>
+</svg>
