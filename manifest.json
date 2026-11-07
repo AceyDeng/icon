@@ -1,0 +1,2288 @@
+{
+  "schema_version": 1,
+  "created_date": "2026-11-08 Asia/Shanghai",
+  "asset_count": 43,
+  "service_count": 28,
+  "fruit_count": 12,
+  "category_asset_count": 3,
+  "sizes": [
+    128,
+    256,
+    512
+  ],
+  "normalization": "512畫布最大可視跨度410px，保持比例；X/TikTok/Grok另有沿圖形細描邊。",
+  "remote_publishing_performed": false,
+  "original_config_available": false,
+  "original_config_note": "已讀附件僅有審查資料與差異，無完整Proxy Group原文；conf為替換模板。",
+  "assets": [
+    {
+      "id": "apple-intelligence",
+      "label": "APPLE INTELLIGENCE",
+      "kind": "service",
+      "meta": {
+        "url": null,
+        "license": "CC0-1.0",
+        "source": "Original design by Codex for this package",
+        "status": null
+      },
+      "color": null,
+      "outline": false,
+      "concept": true,
+      "note": "非官方原創概念圖示。以多色智慧星芒表達 Apple Intelligence；不是官方 Siri / Apple 標誌。",
+      "png": {
+        "128": "png/128/apple-intelligence.png",
+        "256": "png/256/apple-intelligence.png",
+        "512": "png/512/apple-intelligence.png"
+      },
+      "source_file": "sources/original/apple-intelligence.svg",
+      "source_sha256": "dbf6fc8ade6f14ef8240a21dc54f3b32094d1fdc02640a7c61076bc26294bdb7",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "openai",
+      "label": "OPENAI",
+      "kind": "service",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/openai.svg",
+        "license": "MIT (brand trademark rights separate)",
+        "source": "Lobe Icons",
+        "status": 200,
+        "bytes": 1687,
+        "sha256": "a595df6b423920c67a7f8f73c063e4bfb72d415948097b6cac063a2366bb5186"
+      },
+      "color": "#159b81",
+      "outline": false,
+      "concept": false,
+      "note": "保留原綠色結繩識別，以向量重製取代108px來源。",
+      "png": {
+        "128": "png/128/openai.png",
+        "256": "png/256/openai.png",
+        "512": "png/512/openai.png"
+      },
+      "source_file": "sources/original/openai.svg",
+      "source_sha256": "a595df6b423920c67a7f8f73c063e4bfb72d415948097b6cac063a2366bb5186",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "claude",
+      "label": "CLAUDE",
+      "kind": "service",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/claude-color.svg",
+        "license": "MIT (brand trademark rights separate)",
+        "source": "Lobe Icons",
+        "status": 200,
+        "bytes": 1696,
+        "sha256": "a3101f3047a119aa11825ad9369510f0c472428c8c52d420e31bc62db44a8364"
+      },
+      "color": null,
+      "outline": false,
+      "concept": false,
+      "note": "",
+      "png": {
+        "128": "png/128/claude.png",
+        "256": "png/256/claude.png",
+        "512": "png/512/claude.png"
+      },
+      "source_file": "sources/original/claude.svg",
+      "source_sha256": "a3101f3047a119aa11825ad9369510f0c472428c8c52d420e31bc62db44a8364",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "google-ai",
+      "label": "GOOGLE AI",
+      "kind": "service",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/gemini-color.svg",
+        "license": "MIT (brand trademark rights separate)",
+        "source": "Lobe Icons",
+        "status": 200,
+        "bytes": 2836,
+        "sha256": "8ab0a9bafec11f7e69bcb9fc4ffd8f1bc927d1ddcbbb6ff36dee5ae8b5a9d602"
+      },
+      "color": null,
+      "outline": false,
+      "concept": false,
+      "note": "此組以 Gemini 彩星代表 Google AI。",
+      "png": {
+        "128": "png/128/google-ai.png",
+        "256": "png/256/google-ai.png",
+        "512": "png/512/google-ai.png"
+      },
+      "source_file": "sources/original/google-ai.svg",
+      "source_sha256": "8ab0a9bafec11f7e69bcb9fc4ffd8f1bc927d1ddcbbb6ff36dee5ae8b5a9d602",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "xai",
+      "label": "XAI",
+      "kind": "service",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/grok.svg",
+        "license": "MIT (brand trademark rights separate)",
+        "source": "Lobe Icons",
+        "status": 200,
+        "bytes": 756,
+        "sha256": "9175fc90c22655160231976c849f25a03b888d7cc0e04c5f1b987b659bb07c95"
+      },
+      "color": "#18202b",
+      "outline": true,
+      "concept": false,
+      "note": "Grok 標記；加沿圖形的白色細描邊，兼顧深淺背景。",
+      "png": {
+        "128": "png/128/xai.png",
+        "256": "png/256/xai.png",
+        "512": "png/512/xai.png"
+      },
+      "source_file": "sources/original/xai.svg",
+      "source_sha256": "9175fc90c22655160231976c849f25a03b888d7cc0e04c5f1b987b659bb07c95",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "meta-ai",
+      "label": "META AI",
+      "kind": "service",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/6a40fd1d33299ccb2e76bb2f89aa11c246d4acea/packages/static-svg/icons/metaai-color.svg",
+        "license": "MIT (brand trademark rights separate)",
+        "source": "Lobe Icons historical commit",
+        "status": 200,
+        "bytes": 1694,
+        "sha256": "ecda28c1e6f6f89c2ee9dc96009fb0ffa92cc15ba31835873250b7d3e1dac30f"
+      },
+      "color": null,
+      "outline": false,
+      "concept": false,
+      "note": "依使用者指定採用舊版 Meta AI 藍紫環，與企業∞分開。",
+      "png": {
+        "128": "png/128/meta-ai.png",
+        "256": "png/256/meta-ai.png",
+        "512": "png/512/meta-ai.png"
+      },
+      "source_file": "sources/original/meta-ai.svg",
+      "source_sha256": "ecda28c1e6f6f89c2ee9dc96009fb0ffa92cc15ba31835873250b7d3e1dac30f",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "perplexity",
+      "label": "PERPLEXITY",
+      "kind": "service",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/perplexity-color.svg",
+        "license": "MIT (brand trademark rights separate)",
+        "source": "Lobe Icons",
+        "status": 200,
+        "bytes": 603,
+        "sha256": "8353f3ab20822f1a933224b0ea32cc39f0c32d5740f4af8c254b0f418e0a3a70"
+      },
+      "color": null,
+      "outline": false,
+      "concept": false,
+      "note": " 最終PNG依原形統一為深淺通用中明度藍色／青色，未改字形。",
+      "png": {
+        "128": "png/128/perplexity.png",
+        "256": "png/256/perplexity.png",
+        "512": "png/512/perplexity.png"
+      },
+      "source_file": "sources/original/perplexity.svg",
+      "source_sha256": "8353f3ab20822f1a933224b0ea32cc39f0c32d5740f4af8c254b0f418e0a3a70",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "twitter",
+      "label": "TWITTER",
+      "kind": "service",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg",
+        "license": "CC0-1.0 (brand trademark rights separate)",
+        "source": "Simple Icons",
+        "status": 200,
+        "bytes": 299,
+        "sha256": "693e68863eceb8dc9f72e2acd386ab9c20a10858dab2c076212f7084cb7a32fe"
+      },
+      "color": "#18202b",
+      "outline": true,
+      "concept": false,
+      "note": "沿用既有 X 語義；黑形加白細描邊。",
+      "png": {
+        "128": "png/128/twitter.png",
+        "256": "png/256/twitter.png",
+        "512": "png/512/twitter.png"
+      },
+      "source_file": "sources/original/twitter.svg",
+      "source_sha256": "693e68863eceb8dc9f72e2acd386ab9c20a10858dab2c076212f7084cb7a32fe",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "line",
+      "label": "LINE",
+      "kind": "service",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/line.svg",
+        "license": "CC0-1.0 (brand trademark rights separate)",
+        "source": "Simple Icons",
+        "status": 200,
+        "bytes": 1176,
+        "sha256": "b62430462354f95914536d7205128647d5563cdb805bc9aca000300aaed816c8"
+      },
+      "color": "#06b94f",
+      "outline": false,
+      "concept": false,
+      "note": "保留原 LINE 氣泡語義，改用向量。",
+      "png": {
+        "128": "png/128/line.png",
+        "256": "png/256/line.png",
+        "512": "png/512/line.png"
+      },
+      "source_file": "sources/original/line.svg",
+      "source_sha256": "b62430462354f95914536d7205128647d5563cdb805bc9aca000300aaed816c8",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "tt",
+      "label": "TT",
+      "kind": "service",
+      "meta": {
+        "url": null,
+        "license": "CC0-1.0",
+        "source": "Original design by Codex for this package",
+        "status": null
+      },
+      "color": null,
+      "outline": false,
+      "concept": true,
+      "note": "非官方原創概念圖示。依藍色耳機對話要求繪製；不是 TT 官方商標。",
+      "png": {
+        "128": "png/128/tt.png",
+        "256": "png/256/tt.png",
+        "512": "png/512/tt.png"
+      },
+      "source_file": "sources/original/tt.svg",
+      "source_sha256": "900c9c83b6cc0ba5bd51fa03ce57740561258a5c70a5244b470f0497d6f3110f",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "meta",
+      "label": "META",
+      "kind": "service",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/meta.svg",
+        "license": "CC0-1.0 (brand trademark rights separate)",
+        "source": "Simple Icons",
+        "status": 200,
+        "bytes": 1324,
+        "sha256": "e3e9db62f59dc477e5917687349b8aa9685b841d40300c1afad60ad85075cd2e"
+      },
+      "color": "#1688ed",
+      "outline": false,
+      "concept": false,
+      "note": "",
+      "png": {
+        "128": "png/128/meta.png",
+        "256": "png/256/meta.png",
+        "512": "png/512/meta.png"
+      },
+      "source_file": "sources/original/meta.svg",
+      "source_sha256": "e3e9db62f59dc477e5917687349b8aa9685b841d40300c1afad60ad85075cd2e",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "tiktok",
+      "label": "TIKTOK",
+      "kind": "service",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tiktok.svg",
+        "license": "CC0-1.0 (brand trademark rights separate)",
+        "source": "Simple Icons",
+        "status": 200,
+        "bytes": 707,
+        "sha256": "6f54ac8d325faacea8935bdc44cbed60206a6b408641799e5fea1cba7c1a0af7"
+      },
+      "color": "#18202b",
+      "outline": true,
+      "concept": false,
+      "note": "主形加青紅偏移與白細描邊，非 App 底板。",
+      "png": {
+        "128": "png/128/tiktok.png",
+        "256": "png/256/tiktok.png",
+        "512": "png/512/tiktok.png"
+      },
+      "source_file": "sources/original/tiktok.svg",
+      "source_sha256": "6f54ac8d325faacea8935bdc44cbed60206a6b408641799e5fea1cba7c1a0af7",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "yahoo",
+      "label": "YAHOO",
+      "kind": "service",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/9.0.0/icons/yahoo.svg",
+        "license": "CC0-1.0 (brand trademark rights separate)",
+        "source": "Simple Icons historical tag",
+        "status": 200,
+        "bytes": 377,
+        "sha256": "5400908f825ce6b16da4850c1188597bbdf3867df614e57a70ce76b6aee3fdd3"
+      },
+      "color": "#7a39d5",
+      "outline": false,
+      "concept": false,
+      "note": "保留原 Yahoo 紫色識別，向量重製。",
+      "png": {
+        "128": "png/128/yahoo.png",
+        "256": "png/256/yahoo.png",
+        "512": "png/512/yahoo.png"
+      },
+      "source_file": "sources/original/yahoo.svg",
+      "source_sha256": "5400908f825ce6b16da4850c1188597bbdf3867df614e57a70ce76b6aee3fdd3",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "youtube",
+      "label": "YOUTUBE",
+      "kind": "service",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg",
+        "license": "CC0-1.0 (brand trademark rights separate)",
+        "source": "Simple Icons",
+        "status": 200,
+        "bytes": 459,
+        "sha256": "5038808acbbc4e6edda16cbeb1cc6dec80e4e4ee4e227e039c41229fa222aa8c"
+      },
+      "color": "#f52e34",
+      "outline": false,
+      "concept": false,
+      "note": "",
+      "png": {
+        "128": "png/128/youtube.png",
+        "256": "png/256/youtube.png",
+        "512": "png/512/youtube.png"
+      },
+      "source_file": "sources/original/youtube.svg",
+      "source_sha256": "5038808acbbc4e6edda16cbeb1cc6dec80e4e4ee4e227e039c41229fa222aa8c",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "netflix",
+      "label": "NETFLIX",
+      "kind": "service",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/netflix.svg",
+        "license": "CC0-1.0 (brand trademark rights separate)",
+        "source": "Simple Icons",
+        "status": 200,
+        "bytes": 276,
+        "sha256": "67dbc495988bd5667a09ed4f56e14db4070a44c7a74e297b146c229f70fd6f6e"
+      },
+      "color": "#e82d3b",
+      "outline": false,
+      "concept": false,
+      "note": "保留原紅色 N 語義，向量重製。",
+      "png": {
+        "128": "png/128/netflix.png",
+        "256": "png/256/netflix.png",
+        "512": "png/512/netflix.png"
+      },
+      "source_file": "sources/original/netflix.svg",
+      "source_sha256": "67dbc495988bd5667a09ed4f56e14db4070a44c7a74e297b146c229f70fd6f6e",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "disney-plus",
+      "label": "DISNEY+",
+      "kind": "service",
+      "meta": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg",
+        "license": "Public domain PD-textlogo (trademark restrictions separate)",
+        "source": "Disney Enterprises Inc via Wikimedia Commons",
+        "status": 200,
+        "bytes": 8255,
+        "sha256": "ad0ea07cb6627c268dae721d9647019e6e3ce1b51c8f4ba8ec8ddf4618546140"
+      },
+      "color": "#269bd5",
+      "outline": false,
+      "concept": false,
+      "note": "獨立 Disney+ 標誌；深淺共用藍色處理。 最終PNG依原形統一為深淺通用中明度藍色／青色，未改字形。",
+      "png": {
+        "128": "png/128/disney-plus.png",
+        "256": "png/256/disney-plus.png",
+        "512": "png/512/disney-plus.png"
+      },
+      "source_file": "sources/original/disney-plus.svg",
+      "source_sha256": "ad0ea07cb6627c268dae721d9647019e6e3ce1b51c8f4ba8ec8ddf4618546140",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "bilibili",
+      "label": "BILIBILI",
+      "kind": "service",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bilibili.svg",
+        "license": "CC0-1.0 (brand trademark rights separate)",
+        "source": "Simple Icons",
+        "status": 200,
+        "bytes": 1381,
+        "sha256": "0b31005ccf765a9d37be2c42f1d36e44572ccadb088250626d9905ae5d4f3d21"
+      },
+      "color": "#f16d9d",
+      "outline": false,
+      "concept": false,
+      "note": "保留原 Bilibili 粉色識別，向量重製。",
+      "png": {
+        "128": "png/128/bilibili.png",
+        "256": "png/256/bilibili.png",
+        "512": "png/512/bilibili.png"
+      },
+      "source_file": "sources/original/bilibili.svg",
+      "source_sha256": "0b31005ccf765a9d37be2c42f1d36e44572ccadb088250626d9905ae5d4f3d21",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "china-media",
+      "label": "CHINA MEDIA",
+      "kind": "service",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Baidu/iQIYI/iQIYI.png",
+        "license": "MIT",
+        "source": "Hawaiine/Oasisic-Icons",
+        "status": 200,
+        "bytes": 86758,
+        "sha256": "38861a2bffc7c98ffc5f36e748057607a927a59bc02fafe9303780487b91f6dd"
+      },
+      "color": null,
+      "outline": false,
+      "concept": false,
+      "note": "保留 iQIYI 識別；從512px MIT源乾淨提取白色字標，改綠色，刪除整塊漸層底板。",
+      "png": {
+        "128": "png/128/china-media.png",
+        "256": "png/256/china-media.png",
+        "512": "png/512/china-media.png"
+      },
+      "source_file": "sources/original/china-media.png",
+      "source_sha256": "38861a2bffc7c98ffc5f36e748057607a927a59bc02fafe9303780487b91f6dd",
+      "source_native_size": [
+        512,
+        512
+      ],
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "global-media",
+      "label": "GLOBAL MEDIA",
+      "kind": "service",
+      "meta": {
+        "url": null,
+        "license": "CC0-1.0",
+        "source": "Original design by Codex for this package",
+        "status": null
+      },
+      "color": null,
+      "outline": false,
+      "concept": true,
+      "note": "非官方原創概念圖示。地球及播放三角。",
+      "png": {
+        "128": "png/128/global-media.png",
+        "256": "png/256/global-media.png",
+        "512": "png/512/global-media.png"
+      },
+      "source_file": "sources/original/global-media.svg",
+      "source_sha256": "a2bbce3087c1c873473eb8ecac7047aa277d22e5fc520bd0af9505f924ac9f3b",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "spotify",
+      "label": "SPOTIFY",
+      "kind": "service",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spotify.svg",
+        "license": "CC0-1.0 (brand trademark rights separate)",
+        "source": "Simple Icons",
+        "status": 200,
+        "bytes": 697,
+        "sha256": "b9ec9bec7769c35643981586d6ea0d675aaf3871b32f8a291bcac7a87fff0bc1"
+      },
+      "color": "#1cb85b",
+      "outline": false,
+      "concept": false,
+      "note": "圓形是 Spotify 品牌圖形本體，沒有外加圓形底板。",
+      "png": {
+        "128": "png/128/spotify.png",
+        "256": "png/256/spotify.png",
+        "512": "png/512/spotify.png"
+      },
+      "source_file": "sources/original/spotify.svg",
+      "source_sha256": "b9ec9bec7769c35643981586d6ea0d675aaf3871b32f8a291bcac7a87fff0bc1",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "google",
+      "label": "GOOGLE",
+      "kind": "service",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/google-color.svg",
+        "license": "MIT (brand trademark rights separate)",
+        "source": "Lobe Icons",
+        "status": 200,
+        "bytes": 920,
+        "sha256": "4e6aa8892ef15a6b431f40f2c9045979bf7e2357524e7bbb89b353cf4f32a5ac"
+      },
+      "color": null,
+      "outline": false,
+      "concept": false,
+      "note": "保留原彩色 G，向量重製。",
+      "png": {
+        "128": "png/128/google.png",
+        "256": "png/256/google.png",
+        "512": "png/512/google.png"
+      },
+      "source_file": "sources/original/google.svg",
+      "source_sha256": "4e6aa8892ef15a6b431f40f2c9045979bf7e2357524e7bbb89b353cf4f32a5ac",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "microsoft",
+      "label": "Microsoft",
+      "kind": "service",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/10.0.0/icons/windows11.svg",
+        "license": "CC0-1.0 (brand trademark rights separate)",
+        "source": "Simple Icons 10.0.0",
+        "status": 200,
+        "bytes": 206,
+        "sha256": "474ee3ca7e8a4cf7cd4d5073f0a88829e414c280551dfa612a74db5f37af5c5e"
+      },
+      "color": "#279ee5",
+      "outline": false,
+      "concept": false,
+      "note": "保留原 Windows 藍窗格語義。",
+      "png": {
+        "128": "png/128/microsoft.png",
+        "256": "png/256/microsoft.png",
+        "512": "png/512/microsoft.png"
+      },
+      "source_file": "sources/original/microsoft.svg",
+      "source_sha256": "474ee3ca7e8a4cf7cd4d5073f0a88829e414c280551dfa612a74db5f37af5c5e",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "cryptocurrency",
+      "label": "CRYPTOCURRENCY",
+      "kind": "service",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Crypto/Cryptocurrency/Cryptocurrency.png",
+        "license": "MIT (Hawaiine/Oasisic-Icons; brand trademark rights separate)",
+        "source": "original preserved source",
+        "status": 200,
+        "bytes": 73316,
+        "sha256": "a865f5231cda3a535d95daf12dbc60e4b6b5b4ae453d0ac5d3484efe94b605c4"
+      },
+      "color": null,
+      "outline": false,
+      "concept": false,
+      "note": "保留原512px透明硬幣圖；圓形為硬幣圖形本體。",
+      "png": {
+        "128": "png/128/cryptocurrency.png",
+        "256": "png/256/cryptocurrency.png",
+        "512": "png/512/cryptocurrency.png"
+      },
+      "source_file": "sources/original/cryptocurrency.png",
+      "source_sha256": "a865f5231cda3a535d95daf12dbc60e4b6b5b4ae453d0ac5d3484efe94b605c4",
+      "source_native_size": [
+        512,
+        512
+      ],
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "other",
+      "label": "OTHER",
+      "kind": "service",
+      "meta": {
+        "url": null,
+        "license": "CC0-1.0",
+        "source": "Original design by Codex for this package",
+        "status": null
+      },
+      "color": null,
+      "outline": false,
+      "concept": true,
+      "note": "非官方原創概念圖示。通用地球。",
+      "png": {
+        "128": "png/128/other.png",
+        "256": "png/256/other.png",
+        "512": "png/512/other.png"
+      },
+      "source_file": "sources/original/other.svg",
+      "source_sha256": "8a044d215299b6dd4e47e61f5aea5c9cfa64f531e1f6618ec95f02cc8426b1dc",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "speed-test",
+      "label": "SPEED TEST",
+      "kind": "service",
+      "meta": {
+        "url": null,
+        "license": "CC0-1.0",
+        "source": "Original design by Codex for this package",
+        "status": null
+      },
+      "color": null,
+      "outline": false,
+      "concept": true,
+      "note": "非官方原創概念圖示。通用測速儀。",
+      "png": {
+        "128": "png/128/speed-test.png",
+        "256": "png/256/speed-test.png",
+        "512": "png/512/speed-test.png"
+      },
+      "source_file": "sources/original/speed-test.svg",
+      "source_sha256": "632a73439afd868999ff93471bf24e6e56865dd54aa1301d839f65b55bd01892",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "pubg",
+      "label": "PUBG",
+      "kind": "service",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pubg.svg",
+        "license": "CC0-1.0 (brand trademark rights separate)",
+        "source": "Simple Icons",
+        "status": 200,
+        "bytes": 3758,
+        "sha256": "ed2e0d5ab7739e657d0924620246d4124fe66c30a240d081c2fb0444d5cd5822"
+      },
+      "color": "#d9a32b",
+      "outline": false,
+      "concept": false,
+      "note": "",
+      "png": {
+        "128": "png/128/pubg.png",
+        "256": "png/256/pubg.png",
+        "512": "png/512/pubg.png"
+      },
+      "source_file": "sources/original/pubg.svg",
+      "source_sha256": "ed2e0d5ab7739e657d0924620246d4124fe66c30a240d081c2fb0444d5cd5822",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "game",
+      "label": "Game",
+      "kind": "service",
+      "meta": {
+        "url": null,
+        "license": "CC0-1.0",
+        "source": "Original design by Codex for this package",
+        "status": null
+      },
+      "color": null,
+      "outline": false,
+      "concept": true,
+      "note": "非官方原創概念圖示。原低解析來源授權未明，採紫色獨立遊戲手把。",
+      "png": {
+        "128": "png/128/game.png",
+        "256": "png/256/game.png",
+        "512": "png/512/game.png"
+      },
+      "source_file": "sources/original/game.svg",
+      "source_sha256": "5fbd3d2366fdf25075fc4e4b26c66642059eb1dc761c0a91b2a734129549bab9",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "final",
+      "label": "FINAL",
+      "kind": "service",
+      "meta": {
+        "url": null,
+        "license": "CC0-1.0",
+        "source": "Original design by Codex for this package",
+        "status": null
+      },
+      "color": null,
+      "outline": false,
+      "concept": true,
+      "note": "非官方原創概念圖示。路由收束及終點旗標。",
+      "png": {
+        "128": "png/128/final.png",
+        "256": "png/256/final.png",
+        "512": "png/512/final.png"
+      },
+      "source_file": "sources/original/final.svg",
+      "source_sha256": "671741cf036a7b2cc9d3f15328004d0b63ab0761e7aeeecab6eb14f9402ab847",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "blueberry",
+      "label": "BLUEBERRY",
+      "kind": "fruit",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/jdecked/twemoji/main/assets/svg/1fad0.svg",
+        "license": "CC-BY-4.0",
+        "source": "Twitter, Inc. and other contributors / Twemoji",
+        "status": 200
+      },
+      "color": null,
+      "outline": false,
+      "concept": false,
+      "note": "Twemoji SVG 高品質渲染；已統一留白。",
+      "png": {
+        "128": "png/128/blueberry.png",
+        "256": "png/256/blueberry.png",
+        "512": "png/512/blueberry.png"
+      },
+      "source_file": "sources/original/blueberry.svg",
+      "source_sha256": "54a9e8e6ca7263f6e346925de94ebf7e843a8844739badd86926937eae8c6cc1",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "tomato",
+      "label": "TOMATO",
+      "kind": "fruit",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/jdecked/twemoji/main/assets/svg/1f345.svg",
+        "license": "CC-BY-4.0",
+        "source": "Twitter, Inc. and other contributors / Twemoji",
+        "status": 200
+      },
+      "color": null,
+      "outline": false,
+      "concept": false,
+      "note": "Twemoji SVG 高品質渲染；已統一留白。",
+      "png": {
+        "128": "png/128/tomato.png",
+        "256": "png/256/tomato.png",
+        "512": "png/512/tomato.png"
+      },
+      "source_file": "sources/original/tomato.svg",
+      "source_sha256": "4f88e52dc73fa86a88747dec7243d38e0bdd263400c29ac6bd0786cba71768f4",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "carrot",
+      "label": "CARROT",
+      "kind": "fruit",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/jdecked/twemoji/main/assets/svg/1f955.svg",
+        "license": "CC-BY-4.0",
+        "source": "Twitter, Inc. and other contributors / Twemoji",
+        "status": 200
+      },
+      "color": null,
+      "outline": false,
+      "concept": false,
+      "note": "Twemoji SVG 高品質渲染；已統一留白。",
+      "png": {
+        "128": "png/128/carrot.png",
+        "256": "png/256/carrot.png",
+        "512": "png/512/carrot.png"
+      },
+      "source_file": "sources/original/carrot.svg",
+      "source_sha256": "095282c0ebfd6b8fd35cdad033cec807db20afa8a2558e3ebbc038670efd73c5",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "grape",
+      "label": "GRAPE",
+      "kind": "fruit",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/jdecked/twemoji/main/assets/svg/1f347.svg",
+        "license": "CC-BY-4.0",
+        "source": "Twitter, Inc. and other contributors / Twemoji",
+        "status": 200
+      },
+      "color": null,
+      "outline": false,
+      "concept": false,
+      "note": "Twemoji SVG 高品質渲染；已統一留白。",
+      "png": {
+        "128": "png/128/grape.png",
+        "256": "png/256/grape.png",
+        "512": "png/512/grape.png"
+      },
+      "source_file": "sources/original/grape.svg",
+      "source_sha256": "11609fd2874433e3bc5fac02b56cbb1f9bdab6f856aa108fd5deac601fb95a4d",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "cherry",
+      "label": "CHERRY",
+      "kind": "fruit",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/jdecked/twemoji/main/assets/svg/1f352.svg",
+        "license": "CC-BY-4.0",
+        "source": "Twitter, Inc. and other contributors / Twemoji",
+        "status": 200
+      },
+      "color": null,
+      "outline": false,
+      "concept": false,
+      "note": "Twemoji SVG 高品質渲染；已統一留白。",
+      "png": {
+        "128": "png/128/cherry.png",
+        "256": "png/256/cherry.png",
+        "512": "png/512/cherry.png"
+      },
+      "source_file": "sources/original/cherry.svg",
+      "source_sha256": "55169c27fc03a0e20bec5144194584685bbc44f4bd92ce6be21e5aa429c7b137",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "mango",
+      "label": "MANGO",
+      "kind": "fruit",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/jdecked/twemoji/main/assets/svg/1f96d.svg",
+        "license": "CC-BY-4.0",
+        "source": "Twitter, Inc. and other contributors / Twemoji",
+        "status": 200
+      },
+      "color": null,
+      "outline": false,
+      "concept": false,
+      "note": "Twemoji SVG 高品質渲染；已統一留白。",
+      "png": {
+        "128": "png/128/mango.png",
+        "256": "png/256/mango.png",
+        "512": "png/512/mango.png"
+      },
+      "source_file": "sources/original/mango.svg",
+      "source_sha256": "0ee93dec9d72a8fbb747400746b31a003e33ef1ef2066dcf1280a4e8c0d86035",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "pear",
+      "label": "PEAR",
+      "kind": "fruit",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/jdecked/twemoji/main/assets/svg/1f350.svg",
+        "license": "CC-BY-4.0",
+        "source": "Twitter, Inc. and other contributors / Twemoji",
+        "status": 200
+      },
+      "color": null,
+      "outline": false,
+      "concept": false,
+      "note": "Twemoji SVG 高品質渲染；已統一留白。",
+      "png": {
+        "128": "png/128/pear.png",
+        "256": "png/256/pear.png",
+        "512": "png/512/pear.png"
+      },
+      "source_file": "sources/original/pear.svg",
+      "source_sha256": "a5d2dbbe61a52c63dd703f8406e906dfc047dbffaafe1ddbfb26f6bb4a6e7047",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "banana",
+      "label": "BANANA",
+      "kind": "fruit",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/jdecked/twemoji/main/assets/svg/1f34c.svg",
+        "license": "CC-BY-4.0",
+        "source": "Twitter, Inc. and other contributors / Twemoji",
+        "status": 200
+      },
+      "color": null,
+      "outline": false,
+      "concept": false,
+      "note": "Twemoji SVG 高品質渲染；已統一留白。",
+      "png": {
+        "128": "png/128/banana.png",
+        "256": "png/256/banana.png",
+        "512": "png/512/banana.png"
+      },
+      "source_file": "sources/original/banana.svg",
+      "source_sha256": "27f2f433eb1084f3728a430bd72c8891819a45396354d89ab496a5afce76e6e4",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "peach",
+      "label": "PEACH",
+      "kind": "fruit",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/jdecked/twemoji/main/assets/svg/1f351.svg",
+        "license": "CC-BY-4.0",
+        "source": "Twitter, Inc. and other contributors / Twemoji",
+        "status": 200
+      },
+      "color": null,
+      "outline": false,
+      "concept": false,
+      "note": "Twemoji SVG 高品質渲染；已統一留白。",
+      "png": {
+        "128": "png/128/peach.png",
+        "256": "png/256/peach.png",
+        "512": "png/512/peach.png"
+      },
+      "source_file": "sources/original/peach.svg",
+      "source_sha256": "e61b5a90bacb2e21ac945fd311a1e54926745c60e5d1cc9993983a58d77d0fb5",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "orange",
+      "label": "ORANGE",
+      "kind": "fruit",
+      "meta": {
+        "url": "https://raw.githubusercontent.com/jdecked/twemoji/main/assets/svg/1f34a.svg",
+        "license": "CC-BY-4.0",
+        "source": "Twitter, Inc. and other contributors / Twemoji",
+        "status": 200
+      },
+      "color": null,
+      "outline": false,
+      "concept": false,
+      "note": "Twemoji SVG 高品質渲染；已統一留白。",
+      "png": {
+        "128": "png/128/orange.png",
+        "256": "png/256/orange.png",
+        "512": "png/512/orange.png"
+      },
+      "source_file": "sources/original/orange.svg",
+      "source_sha256": "f9806aebac632973570632862ce5c2b8ecb588bed24a5c0ba1c5f3316c43c598",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "raspberry",
+      "label": "RASPBERRY",
+      "kind": "fruit",
+      "meta": {
+        "url": null,
+        "license": "CC0-1.0",
+        "source": "Original artwork created for Surge unified icon set",
+        "status": null
+      },
+      "color": null,
+      "outline": false,
+      "concept": true,
+      "note": "非官方原創概念水果。",
+      "png": {
+        "128": "png/128/raspberry.png",
+        "256": "png/256/raspberry.png",
+        "512": "png/512/raspberry.png"
+      },
+      "source_file": "sources/original/raspberry.svg",
+      "source_sha256": "1bf90626c11341de4a573d04b7eb5a0f87549681d27991f6f7d04db7a6f04392",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "acorn",
+      "label": "ACORN",
+      "kind": "fruit",
+      "meta": {
+        "url": null,
+        "license": "CC0-1.0",
+        "source": "Original artwork created for Surge unified icon set",
+        "status": null
+      },
+      "color": null,
+      "outline": false,
+      "concept": true,
+      "note": "非官方原創概念水果。",
+      "png": {
+        "128": "png/128/acorn.png",
+        "256": "png/256/acorn.png",
+        "512": "png/512/acorn.png"
+      },
+      "source_file": "sources/original/acorn.svg",
+      "source_sha256": "ce3cf3a418b14d808f4638296feee5a8c24e8bc1bbf890805eeab459fca404af",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "main-a",
+      "label": "Main A",
+      "kind": "category",
+      "meta": {
+        "url": null,
+        "license": "CC0-1.0",
+        "source": "Original design by Codex for this package",
+        "status": null
+      },
+      "color": null,
+      "outline": false,
+      "concept": true,
+      "note": "非官方原創概念圖示。機場分類；Main A 藍A、Main B 紫K、Backup 盾形備援。",
+      "png": {
+        "128": "png/128/main-a.png",
+        "256": "png/256/main-a.png",
+        "512": "png/512/main-a.png"
+      },
+      "source_file": "sources/original/main-a.svg",
+      "source_sha256": "ba62e1a2731d63f0e55d49b686b7903bb88f12d490b9ac4f1870783b62a9f873",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "main-b",
+      "label": "Main B",
+      "kind": "category",
+      "meta": {
+        "url": null,
+        "license": "CC0-1.0",
+        "source": "Original design by Codex for this package",
+        "status": null
+      },
+      "color": null,
+      "outline": false,
+      "concept": true,
+      "note": "非官方原創概念圖示。機場分類；Main A 藍A、Main B 紫K、Backup 盾形備援。",
+      "png": {
+        "128": "png/128/main-b.png",
+        "256": "png/256/main-b.png",
+        "512": "png/512/main-b.png"
+      },
+      "source_file": "sources/original/main-b.svg",
+      "source_sha256": "6ad6b42e4bfbcfcdc5edba421b3be57fe89cfe9cd93badbe76f2330e791f236c",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    },
+    {
+      "id": "backup",
+      "label": "Backup",
+      "kind": "category",
+      "meta": {
+        "url": null,
+        "license": "CC0-1.0",
+        "source": "Original design by Codex for this package",
+        "status": null
+      },
+      "color": null,
+      "outline": false,
+      "concept": true,
+      "note": "非官方原創概念圖示。機場分類；Main A 藍A、Main B 紫K、Backup 盾形備援。",
+      "png": {
+        "128": "png/128/backup.png",
+        "256": "png/256/backup.png",
+        "512": "png/512/backup.png"
+      },
+      "source_file": "sources/original/backup.svg",
+      "source_sha256": "5ac0a8a2b8a9aee9cae8f63467d7d0cde01aab7c5f258cd24d27138d49bd57be",
+      "source_native_size": null,
+      "url": null,
+      "deployment_status": "local_only_requires_public_https_deployment"
+    }
+  ],
+  "mapping": [
+    {
+      "group": "APPLE INTELLIGENCE",
+      "asset_id": "apple-intelligence",
+      "scope": "service",
+      "match": "exact",
+      "png_256": "png/256/apple-intelligence.png",
+      "png_512": "png/512/apple-intelligence.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/apple-intelligence.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "非官方原創概念圖示。以多色智慧星芒表達 Apple Intelligence；不是官方 Siri / Apple 標誌。"
+    },
+    {
+      "group": "OPENAI",
+      "asset_id": "openai",
+      "scope": "service",
+      "match": "exact",
+      "png_256": "png/256/openai.png",
+      "png_512": "png/512/openai.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/openai.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "保留原綠色結繩識別，以向量重製取代108px來源。"
+    },
+    {
+      "group": "CLAUDE",
+      "asset_id": "claude",
+      "scope": "service",
+      "match": "exact",
+      "png_256": "png/256/claude.png",
+      "png_512": "png/512/claude.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/claude.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": ""
+    },
+    {
+      "group": "GOOGLE AI",
+      "asset_id": "google-ai",
+      "scope": "service",
+      "match": "exact",
+      "png_256": "png/256/google-ai.png",
+      "png_512": "png/512/google-ai.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/google-ai.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "此組以 Gemini 彩星代表 Google AI。"
+    },
+    {
+      "group": "XAI",
+      "asset_id": "xai",
+      "scope": "service",
+      "match": "exact",
+      "png_256": "png/256/xai.png",
+      "png_512": "png/512/xai.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/xai.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "Grok 標記；加沿圖形的白色細描邊，兼顧深淺背景。"
+    },
+    {
+      "group": "META AI",
+      "asset_id": "meta-ai",
+      "scope": "service",
+      "match": "exact",
+      "png_256": "png/256/meta-ai.png",
+      "png_512": "png/512/meta-ai.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/meta-ai.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "依使用者指定採用舊版 Meta AI 藍紫環，與企業∞分開。"
+    },
+    {
+      "group": "PERPLEXITY",
+      "asset_id": "perplexity",
+      "scope": "service",
+      "match": "exact",
+      "png_256": "png/256/perplexity.png",
+      "png_512": "png/512/perplexity.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/perplexity.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": " 最終PNG依原形統一為深淺通用中明度藍色／青色，未改字形。"
+    },
+    {
+      "group": "TWITTER",
+      "asset_id": "twitter",
+      "scope": "service",
+      "match": "exact",
+      "png_256": "png/256/twitter.png",
+      "png_512": "png/512/twitter.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/twitter.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "沿用既有 X 語義；黑形加白細描邊。"
+    },
+    {
+      "group": "LINE",
+      "asset_id": "line",
+      "scope": "service",
+      "match": "exact",
+      "png_256": "png/256/line.png",
+      "png_512": "png/512/line.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/line.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "保留原 LINE 氣泡語義，改用向量。"
+    },
+    {
+      "group": "TT",
+      "asset_id": "tt",
+      "scope": "service",
+      "match": "exact",
+      "png_256": "png/256/tt.png",
+      "png_512": "png/512/tt.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tt.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "非官方原創概念圖示。依藍色耳機對話要求繪製；不是 TT 官方商標。"
+    },
+    {
+      "group": "META",
+      "asset_id": "meta",
+      "scope": "service",
+      "match": "exact",
+      "png_256": "png/256/meta.png",
+      "png_512": "png/512/meta.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/meta.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": ""
+    },
+    {
+      "group": "TIKTOK",
+      "asset_id": "tiktok",
+      "scope": "service",
+      "match": "exact",
+      "png_256": "png/256/tiktok.png",
+      "png_512": "png/512/tiktok.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tiktok.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "主形加青紅偏移與白細描邊，非 App 底板。"
+    },
+    {
+      "group": "YAHOO",
+      "asset_id": "yahoo",
+      "scope": "service",
+      "match": "exact",
+      "png_256": "png/256/yahoo.png",
+      "png_512": "png/512/yahoo.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/yahoo.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "保留原 Yahoo 紫色識別，向量重製。"
+    },
+    {
+      "group": "YOUTUBE",
+      "asset_id": "youtube",
+      "scope": "service",
+      "match": "exact",
+      "png_256": "png/256/youtube.png",
+      "png_512": "png/512/youtube.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/youtube.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": ""
+    },
+    {
+      "group": "NETFLIX",
+      "asset_id": "netflix",
+      "scope": "service",
+      "match": "exact",
+      "png_256": "png/256/netflix.png",
+      "png_512": "png/512/netflix.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/netflix.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "保留原紅色 N 語義，向量重製。"
+    },
+    {
+      "group": "DISNEY+",
+      "asset_id": "disney-plus",
+      "scope": "service",
+      "match": "exact",
+      "png_256": "png/256/disney-plus.png",
+      "png_512": "png/512/disney-plus.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/disney-plus.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "獨立 Disney+ 標誌；深淺共用藍色處理。 最終PNG依原形統一為深淺通用中明度藍色／青色，未改字形。"
+    },
+    {
+      "group": "BILIBILI",
+      "asset_id": "bilibili",
+      "scope": "service",
+      "match": "exact",
+      "png_256": "png/256/bilibili.png",
+      "png_512": "png/512/bilibili.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/bilibili.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "保留原 Bilibili 粉色識別，向量重製。"
+    },
+    {
+      "group": "CHINA MEDIA",
+      "asset_id": "china-media",
+      "scope": "service",
+      "match": "exact",
+      "png_256": "png/256/china-media.png",
+      "png_512": "png/512/china-media.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/china-media.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "保留 iQIYI 識別；從512px MIT源乾淨提取白色字標，改綠色，刪除整塊漸層底板。"
+    },
+    {
+      "group": "GLOBAL MEDIA",
+      "asset_id": "global-media",
+      "scope": "service",
+      "match": "exact",
+      "png_256": "png/256/global-media.png",
+      "png_512": "png/512/global-media.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/global-media.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "非官方原創概念圖示。地球及播放三角。"
+    },
+    {
+      "group": "SPOTIFY",
+      "asset_id": "spotify",
+      "scope": "service",
+      "match": "exact",
+      "png_256": "png/256/spotify.png",
+      "png_512": "png/512/spotify.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/spotify.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "圓形是 Spotify 品牌圖形本體，沒有外加圓形底板。"
+    },
+    {
+      "group": "GOOGLE",
+      "asset_id": "google",
+      "scope": "service",
+      "match": "exact",
+      "png_256": "png/256/google.png",
+      "png_512": "png/512/google.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/google.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "保留原彩色 G，向量重製。"
+    },
+    {
+      "group": "Microsoft",
+      "asset_id": "microsoft",
+      "scope": "service",
+      "match": "exact",
+      "png_256": "png/256/microsoft.png",
+      "png_512": "png/512/microsoft.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/microsoft.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "保留原 Windows 藍窗格語義。"
+    },
+    {
+      "group": "CRYPTOCURRENCY",
+      "asset_id": "cryptocurrency",
+      "scope": "service",
+      "match": "exact",
+      "png_256": "png/256/cryptocurrency.png",
+      "png_512": "png/512/cryptocurrency.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/cryptocurrency.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "保留原512px透明硬幣圖；圓形為硬幣圖形本體。"
+    },
+    {
+      "group": "OTHER",
+      "asset_id": "other",
+      "scope": "service",
+      "match": "exact",
+      "png_256": "png/256/other.png",
+      "png_512": "png/512/other.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/other.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "非官方原創概念圖示。通用地球。"
+    },
+    {
+      "group": "SPEED TEST",
+      "asset_id": "speed-test",
+      "scope": "service",
+      "match": "exact",
+      "png_256": "png/256/speed-test.png",
+      "png_512": "png/512/speed-test.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/speed-test.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "非官方原創概念圖示。通用測速儀。"
+    },
+    {
+      "group": "PUBG",
+      "asset_id": "pubg",
+      "scope": "service",
+      "match": "exact",
+      "png_256": "png/256/pubg.png",
+      "png_512": "png/512/pubg.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/pubg.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": ""
+    },
+    {
+      "group": "Game",
+      "asset_id": "game",
+      "scope": "service",
+      "match": "exact",
+      "png_256": "png/256/game.png",
+      "png_512": "png/512/game.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/game.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "非官方原創概念圖示。原低解析來源授權未明，採紫色獨立遊戲手把。"
+    },
+    {
+      "group": "FINAL",
+      "asset_id": "final",
+      "scope": "service",
+      "match": "exact",
+      "png_256": "png/256/final.png",
+      "png_512": "png/512/final.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/final.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "非官方原創概念圖示。路由收束及終點旗標。"
+    },
+    {
+      "group": "CN",
+      "asset_id": "blueberry",
+      "scope": "region",
+      "match": "region_token",
+      "png_256": "png/256/blueberry.png",
+      "png_512": "png/512/blueberry.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/blueberry.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "以原組名的地區代碼對應；不建立或改名策略組。"
+    },
+    {
+      "group": "HK",
+      "asset_id": "raspberry",
+      "scope": "region",
+      "match": "region_token",
+      "png_256": "png/256/raspberry.png",
+      "png_512": "png/512/raspberry.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/raspberry.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "以原組名的地區代碼對應；不建立或改名策略組。"
+    },
+    {
+      "group": "JP",
+      "asset_id": "raspberry",
+      "scope": "region",
+      "match": "region_token",
+      "png_256": "png/256/raspberry.png",
+      "png_512": "png/512/raspberry.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/raspberry.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "以原組名的地區代碼對應；不建立或改名策略組。"
+    },
+    {
+      "group": "TW",
+      "asset_id": "tomato",
+      "scope": "region",
+      "match": "region_token",
+      "png_256": "png/256/tomato.png",
+      "png_512": "png/512/tomato.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tomato.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "以原組名的地區代碼對應；不建立或改名策略組。"
+    },
+    {
+      "group": "SG",
+      "asset_id": "carrot",
+      "scope": "region",
+      "match": "region_token",
+      "png_256": "png/256/carrot.png",
+      "png_512": "png/512/carrot.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/carrot.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "以原組名的地區代碼對應；不建立或改名策略組。"
+    },
+    {
+      "group": "US",
+      "asset_id": "tomato",
+      "scope": "region",
+      "match": "region_token",
+      "png_256": "png/256/tomato.png",
+      "png_512": "png/512/tomato.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tomato.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "以原組名的地區代碼對應；不建立或改名策略組。"
+    },
+    {
+      "group": "KR",
+      "asset_id": "tomato",
+      "scope": "region",
+      "match": "region_token",
+      "png_256": "png/256/tomato.png",
+      "png_512": "png/512/tomato.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tomato.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "以原組名的地區代碼對應；不建立或改名策略組。"
+    },
+    {
+      "group": "UK",
+      "asset_id": "grape",
+      "scope": "region",
+      "match": "region_token",
+      "png_256": "png/256/grape.png",
+      "png_512": "png/512/grape.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/grape.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "以原組名的地區代碼對應；不建立或改名策略組。"
+    },
+    {
+      "group": "HU",
+      "asset_id": "cherry",
+      "scope": "region",
+      "match": "region_token",
+      "png_256": "png/256/cherry.png",
+      "png_512": "png/512/cherry.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/cherry.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "以原組名的地區代碼對應；不建立或改名策略組。"
+    },
+    {
+      "group": "AT",
+      "asset_id": "mango",
+      "scope": "region",
+      "match": "region_token",
+      "png_256": "png/256/mango.png",
+      "png_512": "png/512/mango.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/mango.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "以原組名的地區代碼對應；不建立或改名策略組。"
+    },
+    {
+      "group": "BG",
+      "asset_id": "pear",
+      "scope": "region",
+      "match": "region_token",
+      "png_256": "png/256/pear.png",
+      "png_512": "png/512/pear.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/pear.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "以原組名的地區代碼對應；不建立或改名策略組。"
+    },
+    {
+      "group": "SE",
+      "asset_id": "banana",
+      "scope": "region",
+      "match": "region_token",
+      "png_256": "png/256/banana.png",
+      "png_512": "png/512/banana.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/banana.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "以原組名的地區代碼對應；不建立或改名策略組。"
+    },
+    {
+      "group": "CH",
+      "asset_id": "raspberry",
+      "scope": "region",
+      "match": "region_token",
+      "png_256": "png/256/raspberry.png",
+      "png_512": "png/512/raspberry.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/raspberry.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "以原組名的地區代碼對應；不建立或改名策略組。"
+    },
+    {
+      "group": "CL",
+      "asset_id": "banana",
+      "scope": "region",
+      "match": "region_token",
+      "png_256": "png/256/banana.png",
+      "png_512": "png/512/banana.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/banana.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "以原組名的地區代碼對應；不建立或改名策略組。"
+    },
+    {
+      "group": "AR",
+      "asset_id": "raspberry",
+      "scope": "region",
+      "match": "region_token",
+      "png_256": "png/256/raspberry.png",
+      "png_512": "png/512/raspberry.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/raspberry.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "以原組名的地區代碼對應；不建立或改名策略組。"
+    },
+    {
+      "group": "BR",
+      "asset_id": "blueberry",
+      "scope": "region",
+      "match": "region_token",
+      "png_256": "png/256/blueberry.png",
+      "png_512": "png/512/blueberry.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/blueberry.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "以原組名的地區代碼對應；不建立或改名策略組。"
+    },
+    {
+      "group": "ID",
+      "asset_id": "mango",
+      "scope": "region",
+      "match": "region_token",
+      "png_256": "png/256/mango.png",
+      "png_512": "png/512/mango.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/mango.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "以原組名的地區代碼對應；不建立或改名策略組。"
+    },
+    {
+      "group": "IN",
+      "asset_id": "peach",
+      "scope": "region",
+      "match": "region_token",
+      "png_256": "png/256/peach.png",
+      "png_512": "png/512/peach.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/peach.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "以原組名的地區代碼對應；不建立或改名策略組。"
+    },
+    {
+      "group": "AE",
+      "asset_id": "acorn",
+      "scope": "region",
+      "match": "region_token",
+      "png_256": "png/256/acorn.png",
+      "png_512": "png/512/acorn.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/acorn.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "以原組名的地區代碼對應；不建立或改名策略組。"
+    },
+    {
+      "group": "NL",
+      "asset_id": "raspberry",
+      "scope": "region",
+      "match": "region_token",
+      "png_256": "png/256/raspberry.png",
+      "png_512": "png/512/raspberry.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/raspberry.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "以原組名的地區代碼對應；不建立或改名策略組。"
+    },
+    {
+      "group": "RU",
+      "asset_id": "peach",
+      "scope": "region",
+      "match": "region_token",
+      "png_256": "png/256/peach.png",
+      "png_512": "png/512/peach.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/peach.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "以原組名的地區代碼對應；不建立或改名策略組。"
+    },
+    {
+      "group": "FR",
+      "asset_id": "orange",
+      "scope": "region",
+      "match": "region_token",
+      "png_256": "png/256/orange.png",
+      "png_512": "png/512/orange.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/orange.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "以原組名的地區代碼對應；不建立或改名策略組。"
+    },
+    {
+      "group": "AU",
+      "asset_id": "grape",
+      "scope": "region",
+      "match": "region_token",
+      "png_256": "png/256/grape.png",
+      "png_512": "png/512/grape.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/grape.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "以原組名的地區代碼對應；不建立或改名策略組。"
+    },
+    {
+      "group": "CA",
+      "asset_id": "acorn",
+      "scope": "region",
+      "match": "region_token",
+      "png_256": "png/256/acorn.png",
+      "png_512": "png/512/acorn.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/acorn.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "以原組名的地區代碼對應；不建立或改名策略組。"
+    },
+    {
+      "group": "TR",
+      "asset_id": "mango",
+      "scope": "region",
+      "match": "region_token",
+      "png_256": "png/256/mango.png",
+      "png_512": "png/512/mango.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/mango.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "以原組名的地區代碼對應；不建立或改名策略組。"
+    },
+    {
+      "group": "DE",
+      "asset_id": "tomato",
+      "scope": "region",
+      "match": "region_token",
+      "png_256": "png/256/tomato.png",
+      "png_512": "png/512/tomato.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tomato.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "以原組名的地區代碼對應；不建立或改名策略組。"
+    },
+    {
+      "group": "All",
+      "asset_id": "raspberry",
+      "scope": "category",
+      "match": "category_name",
+      "png_256": "png/256/raspberry.png",
+      "png_512": "png/512/raspberry.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/raspberry.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "允許原組名的 ✈ 前綴。"
+    },
+    {
+      "group": "Main A",
+      "asset_id": "main-a",
+      "scope": "category",
+      "match": "category_name",
+      "png_256": "png/256/main-a.png",
+      "png_512": "png/512/main-a.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/main-a.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "允許原組名的 ✈ 前綴。"
+    },
+    {
+      "group": "Main B",
+      "asset_id": "main-b",
+      "scope": "category",
+      "match": "category_name",
+      "png_256": "png/256/main-b.png",
+      "png_512": "png/512/main-b.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/main-b.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "允許原組名的 ✈ 前綴。"
+    },
+    {
+      "group": "Backup",
+      "asset_id": "backup",
+      "scope": "category",
+      "match": "category_name",
+      "png_256": "png/256/backup.png",
+      "png_512": "png/512/backup.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/backup.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "允許原組名的 ✈ 前綴。"
+    },
+    {
+      "group": "HK / Main A",
+      "asset_id": "raspberry",
+      "scope": "hidden-rule",
+      "match": "region_token_and_layer",
+      "png_256": "png/256/raspberry.png",
+      "png_512": "png/512/raspberry.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/raspberry.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。"
+    },
+    {
+      "group": "HK / Main B",
+      "asset_id": "raspberry",
+      "scope": "hidden-rule",
+      "match": "region_token_and_layer",
+      "png_256": "png/256/raspberry.png",
+      "png_512": "png/512/raspberry.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/raspberry.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。"
+    },
+    {
+      "group": "HK / Main",
+      "asset_id": "raspberry",
+      "scope": "hidden-rule",
+      "match": "region_token_and_layer",
+      "png_256": "png/256/raspberry.png",
+      "png_512": "png/512/raspberry.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/raspberry.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。"
+    },
+    {
+      "group": "HK / Backup",
+      "asset_id": "raspberry",
+      "scope": "hidden-rule",
+      "match": "region_token_and_layer",
+      "png_256": "png/256/raspberry.png",
+      "png_512": "png/512/raspberry.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/raspberry.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。"
+    },
+    {
+      "group": "JP / Main A",
+      "asset_id": "raspberry",
+      "scope": "hidden-rule",
+      "match": "region_token_and_layer",
+      "png_256": "png/256/raspberry.png",
+      "png_512": "png/512/raspberry.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/raspberry.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。"
+    },
+    {
+      "group": "JP / Main B",
+      "asset_id": "raspberry",
+      "scope": "hidden-rule",
+      "match": "region_token_and_layer",
+      "png_256": "png/256/raspberry.png",
+      "png_512": "png/512/raspberry.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/raspberry.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。"
+    },
+    {
+      "group": "JP / Main",
+      "asset_id": "raspberry",
+      "scope": "hidden-rule",
+      "match": "region_token_and_layer",
+      "png_256": "png/256/raspberry.png",
+      "png_512": "png/512/raspberry.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/raspberry.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。"
+    },
+    {
+      "group": "JP / Backup",
+      "asset_id": "raspberry",
+      "scope": "hidden-rule",
+      "match": "region_token_and_layer",
+      "png_256": "png/256/raspberry.png",
+      "png_512": "png/512/raspberry.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/raspberry.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。"
+    },
+    {
+      "group": "TW / Main A",
+      "asset_id": "tomato",
+      "scope": "hidden-rule",
+      "match": "region_token_and_layer",
+      "png_256": "png/256/tomato.png",
+      "png_512": "png/512/tomato.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tomato.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。"
+    },
+    {
+      "group": "TW / Main B",
+      "asset_id": "tomato",
+      "scope": "hidden-rule",
+      "match": "region_token_and_layer",
+      "png_256": "png/256/tomato.png",
+      "png_512": "png/512/tomato.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tomato.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。"
+    },
+    {
+      "group": "TW / Main",
+      "asset_id": "tomato",
+      "scope": "hidden-rule",
+      "match": "region_token_and_layer",
+      "png_256": "png/256/tomato.png",
+      "png_512": "png/512/tomato.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tomato.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。"
+    },
+    {
+      "group": "TW / Backup",
+      "asset_id": "tomato",
+      "scope": "hidden-rule",
+      "match": "region_token_and_layer",
+      "png_256": "png/256/tomato.png",
+      "png_512": "png/512/tomato.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tomato.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。"
+    },
+    {
+      "group": "SG / Main A",
+      "asset_id": "carrot",
+      "scope": "hidden-rule",
+      "match": "region_token_and_layer",
+      "png_256": "png/256/carrot.png",
+      "png_512": "png/512/carrot.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/carrot.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。"
+    },
+    {
+      "group": "SG / Main B",
+      "asset_id": "carrot",
+      "scope": "hidden-rule",
+      "match": "region_token_and_layer",
+      "png_256": "png/256/carrot.png",
+      "png_512": "png/512/carrot.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/carrot.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。"
+    },
+    {
+      "group": "SG / Main",
+      "asset_id": "carrot",
+      "scope": "hidden-rule",
+      "match": "region_token_and_layer",
+      "png_256": "png/256/carrot.png",
+      "png_512": "png/512/carrot.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/carrot.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。"
+    },
+    {
+      "group": "SG / Backup",
+      "asset_id": "carrot",
+      "scope": "hidden-rule",
+      "match": "region_token_and_layer",
+      "png_256": "png/256/carrot.png",
+      "png_512": "png/512/carrot.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/carrot.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。"
+    },
+    {
+      "group": "US / Main A",
+      "asset_id": "tomato",
+      "scope": "hidden-rule",
+      "match": "region_token_and_layer",
+      "png_256": "png/256/tomato.png",
+      "png_512": "png/512/tomato.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tomato.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。"
+    },
+    {
+      "group": "US / Main B",
+      "asset_id": "tomato",
+      "scope": "hidden-rule",
+      "match": "region_token_and_layer",
+      "png_256": "png/256/tomato.png",
+      "png_512": "png/512/tomato.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tomato.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。"
+    },
+    {
+      "group": "US / Main",
+      "asset_id": "tomato",
+      "scope": "hidden-rule",
+      "match": "region_token_and_layer",
+      "png_256": "png/256/tomato.png",
+      "png_512": "png/512/tomato.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tomato.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。"
+    },
+    {
+      "group": "US / Backup",
+      "asset_id": "tomato",
+      "scope": "hidden-rule",
+      "match": "region_token_and_layer",
+      "png_256": "png/256/tomato.png",
+      "png_512": "png/512/tomato.png",
+      "remote_url": "https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tomato.png",
+      "deployment_status": "需公開部署後填入HTTPS網址",
+      "note": "此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。"
+    }
+  ],
+  "hidden_coverage_rules": [
+    {
+      "region": "HK",
+      "layer": "Main A",
+      "asset_id": "raspberry",
+      "match": "region_token_and_layer",
+      "exact_original_group_name": null
+    },
+    {
+      "region": "HK",
+      "layer": "Main B",
+      "asset_id": "raspberry",
+      "match": "region_token_and_layer",
+      "exact_original_group_name": null
+    },
+    {
+      "region": "HK",
+      "layer": "Main",
+      "asset_id": "raspberry",
+      "match": "region_token_and_layer",
+      "exact_original_group_name": null
+    },
+    {
+      "region": "HK",
+      "layer": "Backup",
+      "asset_id": "raspberry",
+      "match": "region_token_and_layer",
+      "exact_original_group_name": null
+    },
+    {
+      "region": "JP",
+      "layer": "Main A",
+      "asset_id": "raspberry",
+      "match": "region_token_and_layer",
+      "exact_original_group_name": null
+    },
+    {
+      "region": "JP",
+      "layer": "Main B",
+      "asset_id": "raspberry",
+      "match": "region_token_and_layer",
+      "exact_original_group_name": null
+    },
+    {
+      "region": "JP",
+      "layer": "Main",
+      "asset_id": "raspberry",
+      "match": "region_token_and_layer",
+      "exact_original_group_name": null
+    },
+    {
+      "region": "JP",
+      "layer": "Backup",
+      "asset_id": "raspberry",
+      "match": "region_token_and_layer",
+      "exact_original_group_name": null
+    },
+    {
+      "region": "TW",
+      "layer": "Main A",
+      "asset_id": "tomato",
+      "match": "region_token_and_layer",
+      "exact_original_group_name": null
+    },
+    {
+      "region": "TW",
+      "layer": "Main B",
+      "asset_id": "tomato",
+      "match": "region_token_and_layer",
+      "exact_original_group_name": null
+    },
+    {
+      "region": "TW",
+      "layer": "Main",
+      "asset_id": "tomato",
+      "match": "region_token_and_layer",
+      "exact_original_group_name": null
+    },
+    {
+      "region": "TW",
+      "layer": "Backup",
+      "asset_id": "tomato",
+      "match": "region_token_and_layer",
+      "exact_original_group_name": null
+    },
+    {
+      "region": "SG",
+      "layer": "Main A",
+      "asset_id": "carrot",
+      "match": "region_token_and_layer",
+      "exact_original_group_name": null
+    },
+    {
+      "region": "SG",
+      "layer": "Main B",
+      "asset_id": "carrot",
+      "match": "region_token_and_layer",
+      "exact_original_group_name": null
+    },
+    {
+      "region": "SG",
+      "layer": "Main",
+      "asset_id": "carrot",
+      "match": "region_token_and_layer",
+      "exact_original_group_name": null
+    },
+    {
+      "region": "SG",
+      "layer": "Backup",
+      "asset_id": "carrot",
+      "match": "region_token_and_layer",
+      "exact_original_group_name": null
+    },
+    {
+      "region": "US",
+      "layer": "Main A",
+      "asset_id": "tomato",
+      "match": "region_token_and_layer",
+      "exact_original_group_name": null
+    },
+    {
+      "region": "US",
+      "layer": "Main B",
+      "asset_id": "tomato",
+      "match": "region_token_and_layer",
+      "exact_original_group_name": null
+    },
+    {
+      "region": "US",
+      "layer": "Main",
+      "asset_id": "tomato",
+      "match": "region_token_and_layer",
+      "exact_original_group_name": null
+    },
+    {
+      "region": "US",
+      "layer": "Backup",
+      "asset_id": "tomato",
+      "match": "region_token_and_layer",
+      "exact_original_group_name": null
+    }
+  ],
+  "original_urls": [
+    {
+      "group": "APPLE INTELLIGENCE",
+      "url": "https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/icon/Apple_Arcade.png",
+      "prior_review_category": "404／內容錯誤"
+    },
+    {
+      "group": "OPENAI",
+      "url": "https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/icon/ChatGPT.png",
+      "prior_review_category": "保留"
+    },
+    {
+      "group": "CLAUDE",
+      "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Claude.png",
+      "prior_review_category": "可用但風格不符"
+    },
+    {
+      "group": "GOOGLE AI",
+      "url": "https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/icon/Google.png",
+      "prior_review_category": "404／內容錯誤"
+    },
+    {
+      "group": "XAI",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/SpaceXAI/xAI/xAI.png",
+      "prior_review_category": "可用但風格不符"
+    },
+    {
+      "group": "META AI",
+      "url": "https://github.com/shindgew/WHATSINStash/raw/main/iconset/white/meta.png",
+      "prior_review_category": "404／內容錯誤"
+    },
+    {
+      "group": "PERPLEXITY",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/AI/Perplexity/Perplexity.png",
+      "prior_review_category": "可用但風格不符"
+    },
+    {
+      "group": "TWITTER",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Social/X/X.png",
+      "prior_review_category": "404／內容錯誤"
+    },
+    {
+      "group": "LINE",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Line.png",
+      "prior_review_category": "保留"
+    },
+    {
+      "group": "TT",
+      "url": "https://raw.githubusercontent.com/MiniMax-AI/awesome-minimax-integrations/8327f06e46f9162d9099de721181ee370c6428e8/assets/images/TTVoice.png",
+      "prior_review_category": "可用但風格不符"
+    },
+    {
+      "group": "META",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Social/Meta/Meta.png",
+      "prior_review_category": "404／內容錯誤"
+    },
+    {
+      "group": "TIKTOK",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Social/TikTok/TikTok.png",
+      "prior_review_category": "404／內容錯誤"
+    },
+    {
+      "group": "YAHOO",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Yahoo.png",
+      "prior_review_category": "保留"
+    },
+    {
+      "group": "YOUTUBE",
+      "url": "https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/icon/YouTube.png",
+      "prior_review_category": "可用但風格不符"
+    },
+    {
+      "group": "NETFLIX",
+      "url": "https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/icon/Netflix.png",
+      "prior_review_category": "保留"
+    },
+    {
+      "group": "DISNEY+",
+      "url": "https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/icon/Disney.png",
+      "prior_review_category": "可用但風格不符"
+    },
+    {
+      "group": "BILIBILI",
+      "url": "https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/icon/Bilibili.png",
+      "prior_review_category": "保留"
+    },
+    {
+      "group": "CHINA MEDIA",
+      "url": "https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/icon/iQIYI.png",
+      "prior_review_category": "保留"
+    },
+    {
+      "group": "GLOBAL MEDIA",
+      "url": "https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/icon/GlobalMedia.png",
+      "prior_review_category": "可用但風格不符"
+    },
+    {
+      "group": "SPOTIFY",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Music/Spotify/Spotify.png",
+      "prior_review_category": "可用但風格不符"
+    },
+    {
+      "group": "GOOGLE",
+      "url": "https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/icon/Google.png",
+      "prior_review_category": "保留"
+    },
+    {
+      "group": "Microsoft",
+      "url": "https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/icon/Windows.png",
+      "prior_review_category": "保留"
+    },
+    {
+      "group": "CRYPTOCURRENCY",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Crypto/Cryptocurrency/Cryptocurrency.png",
+      "prior_review_category": "保留"
+    },
+    {
+      "group": "OTHER",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/General/Global/Global.png",
+      "prior_review_category": "404／內容錯誤"
+    },
+    {
+      "group": "SPEED TEST",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/Tool/Speedtest/Speedtest.png",
+      "prior_review_category": "404／內容錯誤"
+    },
+    {
+      "group": "PUBG",
+      "url": "https://raw.githubusercontent.com/sameerasw/folder-icons/main/PNGs/pubg.png",
+      "prior_review_category": "可用但風格不符"
+    },
+    {
+      "group": "Game",
+      "url": "https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/icon/Game.png",
+      "prior_review_category": "保留"
+    },
+    {
+      "group": "FINAL",
+      "url": "https://raw.githubusercontent.com/Hawaiine/Oasisic-Icons/main/icons/General/Final/Final.png",
+      "prior_review_category": "404／內容錯誤"
+    }
+  ],
+  "published_repository": "https://github.com/AceyDeng/icon",
+  "raw_base_url": "https://raw.githubusercontent.com/AceyDeng/icon/main"
+}

@@ -1,0 +1,79 @@
+﻿group,asset_id,scope,match,png_256,png_512,remote_url,deployment_status,note
+APPLE INTELLIGENCE,apple-intelligence,service,exact,png/256/apple-intelligence.png,png/512/apple-intelligence.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/apple-intelligence.png,已上傳至 GitHub（部署完成後生效）,非官方原創概念圖示。以多色智慧星芒表達 Apple Intelligence；不是官方 Siri / Apple 標誌。
+OPENAI,openai,service,exact,png/256/openai.png,png/512/openai.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/openai.png,已上傳至 GitHub（部署完成後生效）,保留原綠色結繩識別，以向量重製取代108px來源。
+CLAUDE,claude,service,exact,png/256/claude.png,png/512/claude.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/claude.png,已上傳至 GitHub（部署完成後生效）,
+GOOGLE AI,google-ai,service,exact,png/256/google-ai.png,png/512/google-ai.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/google-ai.png,已上傳至 GitHub（部署完成後生效）,此組以 Gemini 彩星代表 Google AI。
+XAI,xai,service,exact,png/256/xai.png,png/512/xai.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/xai.png,已上傳至 GitHub（部署完成後生效）,Grok 標記；加沿圖形的白色細描邊，兼顧深淺背景。
+META AI,meta-ai,service,exact,png/256/meta-ai.png,png/512/meta-ai.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/meta-ai.png,已上傳至 GitHub（部署完成後生效）,依使用者指定採用舊版 Meta AI 藍紫環，與企業∞分開。
+PERPLEXITY,perplexity,service,exact,png/256/perplexity.png,png/512/perplexity.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/perplexity.png,已上傳至 GitHub（部署完成後生效）, 最終PNG依原形統一為深淺通用中明度藍色／青色，未改字形。
+TWITTER,twitter,service,exact,png/256/twitter.png,png/512/twitter.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/twitter.png,已上傳至 GitHub（部署完成後生效）,沿用既有 X 語義；黑形加白細描邊。
+LINE,line,service,exact,png/256/line.png,png/512/line.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/line.png,已上傳至 GitHub（部署完成後生效）,保留原 LINE 氣泡語義，改用向量。
+TT,tt,service,exact,png/256/tt.png,png/512/tt.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tt.png,已上傳至 GitHub（部署完成後生效）,非官方原創概念圖示。依藍色耳機對話要求繪製；不是 TT 官方商標。
+META,meta,service,exact,png/256/meta.png,png/512/meta.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/meta.png,已上傳至 GitHub（部署完成後生效）,
+TIKTOK,tiktok,service,exact,png/256/tiktok.png,png/512/tiktok.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tiktok.png,已上傳至 GitHub（部署完成後生效）,主形加青紅偏移與白細描邊，非 App 底板。
+YAHOO,yahoo,service,exact,png/256/yahoo.png,png/512/yahoo.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/yahoo.png,已上傳至 GitHub（部署完成後生效）,保留原 Yahoo 紫色識別，向量重製。
+YOUTUBE,youtube,service,exact,png/256/youtube.png,png/512/youtube.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/youtube.png,已上傳至 GitHub（部署完成後生效）,
+NETFLIX,netflix,service,exact,png/256/netflix.png,png/512/netflix.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/netflix.png,已上傳至 GitHub（部署完成後生效）,保留原紅色 N 語義，向量重製。
+DISNEY+,disney-plus,service,exact,png/256/disney-plus.png,png/512/disney-plus.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/disney-plus.png,已上傳至 GitHub（部署完成後生效）,獨立 Disney+ 標誌；深淺共用藍色處理。 最終PNG依原形統一為深淺通用中明度藍色／青色，未改字形。
+BILIBILI,bilibili,service,exact,png/256/bilibili.png,png/512/bilibili.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/bilibili.png,已上傳至 GitHub（部署完成後生效）,保留原 Bilibili 粉色識別，向量重製。
+CHINA MEDIA,china-media,service,exact,png/256/china-media.png,png/512/china-media.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/china-media.png,已上傳至 GitHub（部署完成後生效）,保留 iQIYI 識別；從512px MIT源乾淨提取白色字標，改綠色，刪除整塊漸層底板。
+GLOBAL MEDIA,global-media,service,exact,png/256/global-media.png,png/512/global-media.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/global-media.png,已上傳至 GitHub（部署完成後生效）,非官方原創概念圖示。地球及播放三角。
+SPOTIFY,spotify,service,exact,png/256/spotify.png,png/512/spotify.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/spotify.png,已上傳至 GitHub（部署完成後生效）,圓形是 Spotify 品牌圖形本體，沒有外加圓形底板。
+GOOGLE,google,service,exact,png/256/google.png,png/512/google.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/google.png,已上傳至 GitHub（部署完成後生效）,保留原彩色 G，向量重製。
+Microsoft,microsoft,service,exact,png/256/microsoft.png,png/512/microsoft.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/microsoft.png,已上傳至 GitHub（部署完成後生效）,保留原 Windows 藍窗格語義。
+CRYPTOCURRENCY,cryptocurrency,service,exact,png/256/cryptocurrency.png,png/512/cryptocurrency.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/cryptocurrency.png,已上傳至 GitHub（部署完成後生效）,保留原512px透明硬幣圖；圓形為硬幣圖形本體。
+OTHER,other,service,exact,png/256/other.png,png/512/other.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/other.png,已上傳至 GitHub（部署完成後生效）,非官方原創概念圖示。通用地球。
+SPEED TEST,speed-test,service,exact,png/256/speed-test.png,png/512/speed-test.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/speed-test.png,已上傳至 GitHub（部署完成後生效）,非官方原創概念圖示。通用測速儀。
+PUBG,pubg,service,exact,png/256/pubg.png,png/512/pubg.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/pubg.png,已上傳至 GitHub（部署完成後生效）,
+Game,game,service,exact,png/256/game.png,png/512/game.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/game.png,已上傳至 GitHub（部署完成後生效）,非官方原創概念圖示。原低解析來源授權未明，採紫色獨立遊戲手把。
+FINAL,final,service,exact,png/256/final.png,png/512/final.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/final.png,已上傳至 GitHub（部署完成後生效）,非官方原創概念圖示。路由收束及終點旗標。
+CN,blueberry,region,region_token,png/256/blueberry.png,png/512/blueberry.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/blueberry.png,已上傳至 GitHub（部署完成後生效）,以原組名的地區代碼對應；不建立或改名策略組。
+HK,raspberry,region,region_token,png/256/raspberry.png,png/512/raspberry.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/raspberry.png,已上傳至 GitHub（部署完成後生效）,以原組名的地區代碼對應；不建立或改名策略組。
+JP,raspberry,region,region_token,png/256/raspberry.png,png/512/raspberry.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/raspberry.png,已上傳至 GitHub（部署完成後生效）,以原組名的地區代碼對應；不建立或改名策略組。
+TW,tomato,region,region_token,png/256/tomato.png,png/512/tomato.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tomato.png,已上傳至 GitHub（部署完成後生效）,以原組名的地區代碼對應；不建立或改名策略組。
+SG,carrot,region,region_token,png/256/carrot.png,png/512/carrot.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/carrot.png,已上傳至 GitHub（部署完成後生效）,以原組名的地區代碼對應；不建立或改名策略組。
+US,tomato,region,region_token,png/256/tomato.png,png/512/tomato.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tomato.png,已上傳至 GitHub（部署完成後生效）,以原組名的地區代碼對應；不建立或改名策略組。
+KR,tomato,region,region_token,png/256/tomato.png,png/512/tomato.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tomato.png,已上傳至 GitHub（部署完成後生效）,以原組名的地區代碼對應；不建立或改名策略組。
+UK,grape,region,region_token,png/256/grape.png,png/512/grape.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/grape.png,已上傳至 GitHub（部署完成後生效）,以原組名的地區代碼對應；不建立或改名策略組。
+HU,cherry,region,region_token,png/256/cherry.png,png/512/cherry.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/cherry.png,已上傳至 GitHub（部署完成後生效）,以原組名的地區代碼對應；不建立或改名策略組。
+AT,mango,region,region_token,png/256/mango.png,png/512/mango.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/mango.png,已上傳至 GitHub（部署完成後生效）,以原組名的地區代碼對應；不建立或改名策略組。
+BG,pear,region,region_token,png/256/pear.png,png/512/pear.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/pear.png,已上傳至 GitHub（部署完成後生效）,以原組名的地區代碼對應；不建立或改名策略組。
+SE,banana,region,region_token,png/256/banana.png,png/512/banana.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/banana.png,已上傳至 GitHub（部署完成後生效）,以原組名的地區代碼對應；不建立或改名策略組。
+CH,raspberry,region,region_token,png/256/raspberry.png,png/512/raspberry.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/raspberry.png,已上傳至 GitHub（部署完成後生效）,以原組名的地區代碼對應；不建立或改名策略組。
+CL,banana,region,region_token,png/256/banana.png,png/512/banana.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/banana.png,已上傳至 GitHub（部署完成後生效）,以原組名的地區代碼對應；不建立或改名策略組。
+AR,raspberry,region,region_token,png/256/raspberry.png,png/512/raspberry.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/raspberry.png,已上傳至 GitHub（部署完成後生效）,以原組名的地區代碼對應；不建立或改名策略組。
+BR,blueberry,region,region_token,png/256/blueberry.png,png/512/blueberry.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/blueberry.png,已上傳至 GitHub（部署完成後生效）,以原組名的地區代碼對應；不建立或改名策略組。
+ID,mango,region,region_token,png/256/mango.png,png/512/mango.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/mango.png,已上傳至 GitHub（部署完成後生效）,以原組名的地區代碼對應；不建立或改名策略組。
+IN,peach,region,region_token,png/256/peach.png,png/512/peach.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/peach.png,已上傳至 GitHub（部署完成後生效）,以原組名的地區代碼對應；不建立或改名策略組。
+AE,acorn,region,region_token,png/256/acorn.png,png/512/acorn.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/acorn.png,已上傳至 GitHub（部署完成後生效）,以原組名的地區代碼對應；不建立或改名策略組。
+NL,raspberry,region,region_token,png/256/raspberry.png,png/512/raspberry.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/raspberry.png,已上傳至 GitHub（部署完成後生效）,以原組名的地區代碼對應；不建立或改名策略組。
+RU,peach,region,region_token,png/256/peach.png,png/512/peach.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/peach.png,已上傳至 GitHub（部署完成後生效）,以原組名的地區代碼對應；不建立或改名策略組。
+FR,orange,region,region_token,png/256/orange.png,png/512/orange.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/orange.png,已上傳至 GitHub（部署完成後生效）,以原組名的地區代碼對應；不建立或改名策略組。
+AU,grape,region,region_token,png/256/grape.png,png/512/grape.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/grape.png,已上傳至 GitHub（部署完成後生效）,以原組名的地區代碼對應；不建立或改名策略組。
+CA,acorn,region,region_token,png/256/acorn.png,png/512/acorn.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/acorn.png,已上傳至 GitHub（部署完成後生效）,以原組名的地區代碼對應；不建立或改名策略組。
+TR,mango,region,region_token,png/256/mango.png,png/512/mango.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/mango.png,已上傳至 GitHub（部署完成後生效）,以原組名的地區代碼對應；不建立或改名策略組。
+DE,tomato,region,region_token,png/256/tomato.png,png/512/tomato.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tomato.png,已上傳至 GitHub（部署完成後生效）,以原組名的地區代碼對應；不建立或改名策略組。
+All,raspberry,category,category_name,png/256/raspberry.png,png/512/raspberry.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/raspberry.png,已上傳至 GitHub（部署完成後生效）,允許原組名的 ✈ 前綴。
+Main A,main-a,category,category_name,png/256/main-a.png,png/512/main-a.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/main-a.png,已上傳至 GitHub（部署完成後生效）,允許原組名的 ✈ 前綴。
+Main B,main-b,category,category_name,png/256/main-b.png,png/512/main-b.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/main-b.png,已上傳至 GitHub（部署完成後生效）,允許原組名的 ✈ 前綴。
+Backup,backup,category,category_name,png/256/backup.png,png/512/backup.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/backup.png,已上傳至 GitHub（部署完成後生效）,允許原組名的 ✈ 前綴。
+HK / Main A,raspberry,hidden-rule,region_token_and_layer,png/256/raspberry.png,png/512/raspberry.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/raspberry.png,已上傳至 GitHub（部署完成後生效）,此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。
+HK / Main B,raspberry,hidden-rule,region_token_and_layer,png/256/raspberry.png,png/512/raspberry.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/raspberry.png,已上傳至 GitHub（部署完成後生效）,此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。
+HK / Main,raspberry,hidden-rule,region_token_and_layer,png/256/raspberry.png,png/512/raspberry.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/raspberry.png,已上傳至 GitHub（部署完成後生效）,此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。
+HK / Backup,raspberry,hidden-rule,region_token_and_layer,png/256/raspberry.png,png/512/raspberry.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/raspberry.png,已上傳至 GitHub（部署完成後生效）,此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。
+JP / Main A,raspberry,hidden-rule,region_token_and_layer,png/256/raspberry.png,png/512/raspberry.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/raspberry.png,已上傳至 GitHub（部署完成後生效）,此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。
+JP / Main B,raspberry,hidden-rule,region_token_and_layer,png/256/raspberry.png,png/512/raspberry.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/raspberry.png,已上傳至 GitHub（部署完成後生效）,此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。
+JP / Main,raspberry,hidden-rule,region_token_and_layer,png/256/raspberry.png,png/512/raspberry.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/raspberry.png,已上傳至 GitHub（部署完成後生效）,此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。
+JP / Backup,raspberry,hidden-rule,region_token_and_layer,png/256/raspberry.png,png/512/raspberry.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/raspberry.png,已上傳至 GitHub（部署完成後生效）,此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。
+TW / Main A,tomato,hidden-rule,region_token_and_layer,png/256/tomato.png,png/512/tomato.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tomato.png,已上傳至 GitHub（部署完成後生效）,此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。
+TW / Main B,tomato,hidden-rule,region_token_and_layer,png/256/tomato.png,png/512/tomato.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tomato.png,已上傳至 GitHub（部署完成後生效）,此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。
+TW / Main,tomato,hidden-rule,region_token_and_layer,png/256/tomato.png,png/512/tomato.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tomato.png,已上傳至 GitHub（部署完成後生效）,此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。
+TW / Backup,tomato,hidden-rule,region_token_and_layer,png/256/tomato.png,png/512/tomato.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tomato.png,已上傳至 GitHub（部署完成後生效）,此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。
+SG / Main A,carrot,hidden-rule,region_token_and_layer,png/256/carrot.png,png/512/carrot.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/carrot.png,已上傳至 GitHub（部署完成後生效）,此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。
+SG / Main B,carrot,hidden-rule,region_token_and_layer,png/256/carrot.png,png/512/carrot.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/carrot.png,已上傳至 GitHub（部署完成後生效）,此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。
+SG / Main,carrot,hidden-rule,region_token_and_layer,png/256/carrot.png,png/512/carrot.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/carrot.png,已上傳至 GitHub（部署完成後生效）,此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。
+SG / Backup,carrot,hidden-rule,region_token_and_layer,png/256/carrot.png,png/512/carrot.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/carrot.png,已上傳至 GitHub（部署完成後生效）,此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。
+US / Main A,tomato,hidden-rule,region_token_and_layer,png/256/tomato.png,png/512/tomato.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tomato.png,已上傳至 GitHub（部署完成後生效）,此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。
+US / Main B,tomato,hidden-rule,region_token_and_layer,png/256/tomato.png,png/512/tomato.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tomato.png,已上傳至 GitHub（部署完成後生效）,此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。
+US / Main,tomato,hidden-rule,region_token_and_layer,png/256/tomato.png,png/512/tomato.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tomato.png,已上傳至 GitHub（部署完成後生效）,此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。
+US / Backup,tomato,hidden-rule,region_token_and_layer,png/256/tomato.png,png/512/tomato.png,https://raw.githubusercontent.com/AceyDeng/icon/main/png/256/tomato.png,已上傳至 GitHub（部署完成後生效）,此欄為匹配規則描述，並非宣稱原始組名；保留 hidden 等原參數。
