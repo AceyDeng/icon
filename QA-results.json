@@ -1,0 +1,2079 @@
+{
+  "png_files": 129,
+  "unique_icons": 43,
+  "all_rgba": true,
+  "all_have_real_transparent_pixels": true,
+  "visual_dark_light_inspected": true,
+  "visual_notes": "已檢查兩模式64px/24px預覽，修正Disney與Perplexity對比；無額外底板或烘焙棋盤格。",
+  "configuration_tool_regression": {
+    "passed": true,
+    "scope": "icon-url only; CRLF/BOM/order/members/regex/hidden/unknown groups/other sections retained; original untouched"
+  },
+  "surge_device_test_performed": false,
+  "items": [
+    {
+      "asset_id": "apple-intelligence",
+      "size": 128,
+      "file": "png/128/apple-intelligence.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 13326,
+      "transparent_fraction": 0.8134,
+      "bbox": [
+        13,
+        12,
+        115,
+        116
+      ],
+      "sha256": "2f9db657f44a7e93ab140bdc7cb2e8f0c1bc9875778a0a760ee5d422eb00f53c"
+    },
+    {
+      "asset_id": "apple-intelligence",
+      "size": 256,
+      "file": "png/256/apple-intelligence.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 54490,
+      "transparent_fraction": 0.8315,
+      "bbox": [
+        27,
+        23,
+        229,
+        231
+      ],
+      "sha256": "f39a5b1c1ada9150d4147bcf78e14af501757af8cb075842851650ff124f0636"
+    },
+    {
+      "asset_id": "apple-intelligence",
+      "size": 512,
+      "file": "png/512/apple-intelligence.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 220343,
+      "transparent_fraction": 0.8405,
+      "bbox": [
+        54,
+        51,
+        458,
+        461
+      ],
+      "sha256": "9c2ba0ef1d72902bf307f53a7cb3bb268a4b4d5ea64a3b560401de700c78da9e"
+    },
+    {
+      "asset_id": "openai",
+      "size": 128,
+      "file": "png/128/openai.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 10670,
+      "transparent_fraction": 0.6512,
+      "bbox": [
+        10,
+        10,
+        118,
+        117
+      ],
+      "sha256": "1996d0e8c1196b252ec74f2e0089ff372a9abaf3fe44ab5fa88ddf192a1b9164"
+    },
+    {
+      "asset_id": "openai",
+      "size": 256,
+      "file": "png/256/openai.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 46241,
+      "transparent_fraction": 0.7056,
+      "bbox": [
+        23,
+        23,
+        233,
+        232
+      ],
+      "sha256": "c8a86ef8630af94412b645e69340b40293cb5c1023dced62cc4b46a486dd1ae1"
+    },
+    {
+      "asset_id": "openai",
+      "size": 512,
+      "file": "png/512/openai.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 192787,
+      "transparent_fraction": 0.7354,
+      "bbox": [
+        51,
+        52,
+        461,
+        459
+      ],
+      "sha256": "fdc366011fb342c249c6c1da5c78c03d0f20f64a7e80cdd1562f9fcfee6e90f6"
+    },
+    {
+      "asset_id": "claude",
+      "size": 128,
+      "file": "png/128/claude.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 10827,
+      "transparent_fraction": 0.6608,
+      "bbox": [
+        10,
+        10,
+        118,
+        118
+      ],
+      "sha256": "5a51eb21de50977510eb3ceaf99a08dde3f3768f32ad7faa12377e7ce0091511"
+    },
+    {
+      "asset_id": "claude",
+      "size": 256,
+      "file": "png/256/claude.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 45903,
+      "transparent_fraction": 0.7004,
+      "bbox": [
+        23,
+        23,
+        233,
+        233
+      ],
+      "sha256": "f92ea604b916becf2d706e8f32570dd8aa25b79459bba8461de4a7a85bece7fe"
+    },
+    {
+      "asset_id": "claude",
+      "size": 512,
+      "file": "png/512/claude.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 189490,
+      "transparent_fraction": 0.7228,
+      "bbox": [
+        51,
+        51,
+        461,
+        461
+      ],
+      "sha256": "28b2deba7d0e5f2635c920ff92a83c5f99eddf26b58e13cab1a5f213e4357b66"
+    },
+    {
+      "asset_id": "google-ai",
+      "size": 128,
+      "file": "png/128/google-ai.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 12198,
+      "transparent_fraction": 0.7445,
+      "bbox": [
+        10,
+        10,
+        118,
+        118
+      ],
+      "sha256": "3a04b2d858e97af79b8b2753779f4764cbb268579d37c7e28ae9bbb56ea86ef2"
+    },
+    {
+      "asset_id": "google-ai",
+      "size": 256,
+      "file": "png/256/google-ai.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 49730,
+      "transparent_fraction": 0.7588,
+      "bbox": [
+        23,
+        23,
+        233,
+        233
+      ],
+      "sha256": "555c513a44d23b76201f3957398c9af2123f1b9d32ce8f53b6c26b49e8d27074"
+    },
+    {
+      "asset_id": "google-ai",
+      "size": 512,
+      "file": "png/512/google-ai.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 200947,
+      "transparent_fraction": 0.7666,
+      "bbox": [
+        51,
+        51,
+        461,
+        461
+      ],
+      "sha256": "8059c01114a79cf8d234d9a9d652d61ba2317059d4ea65a3236896666c460b65"
+    },
+    {
+      "asset_id": "xai",
+      "size": 128,
+      "file": "png/128/xai.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 11761,
+      "transparent_fraction": 0.7178,
+      "bbox": [
+        9,
+        11,
+        119,
+        117
+      ],
+      "sha256": "2044c2d2ed70e4d6f961f5bd6df668ca8f3538b1519070457e9aadb4fd8aaa92"
+    },
+    {
+      "asset_id": "xai",
+      "size": 256,
+      "file": "png/256/xai.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 49090,
+      "transparent_fraction": 0.7491,
+      "bbox": [
+        20,
+        24,
+        236,
+        232
+      ],
+      "sha256": "65e42023bebe96163f6d12b650a6106f9ee061c8b20a2264a1912c06c5a50973"
+    },
+    {
+      "asset_id": "xai",
+      "size": 512,
+      "file": "png/512/xai.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 198367,
+      "transparent_fraction": 0.7567,
+      "bbox": [
+        45,
+        53,
+        467,
+        459
+      ],
+      "sha256": "810da52e04ec1070b90f9568c3fbbef248363e6779f86a54ce69d50bcdd9cd26"
+    },
+    {
+      "asset_id": "meta-ai",
+      "size": 128,
+      "file": "png/128/meta-ai.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 11282,
+      "transparent_fraction": 0.6886,
+      "bbox": [
+        10,
+        10,
+        118,
+        118
+      ],
+      "sha256": "045339ecef4b93e77e01c575ddf174f1195f5c77c23a68d076d9c7b07f6b7a11"
+    },
+    {
+      "asset_id": "meta-ai",
+      "size": 256,
+      "file": "png/256/meta-ai.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 46846,
+      "transparent_fraction": 0.7148,
+      "bbox": [
+        23,
+        23,
+        233,
+        233
+      ],
+      "sha256": "ebe0ddd65dab8d210db11e6198ad37ef4ad58bb27c566d8bd8c5008c206fd5ad"
+    },
+    {
+      "asset_id": "meta-ai",
+      "size": 512,
+      "file": "png/512/meta-ai.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 191069,
+      "transparent_fraction": 0.7289,
+      "bbox": [
+        51,
+        51,
+        461,
+        461
+      ],
+      "sha256": "f5b827d1e0917f57e260f2eba95a937c8d025a8cb4d54abded48d3dd8b0d45cc"
+    },
+    {
+      "asset_id": "perplexity",
+      "size": 128,
+      "file": "png/128/perplexity.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 11729,
+      "transparent_fraction": 0.7159,
+      "bbox": [
+        16,
+        10,
+        111,
+        118
+      ],
+      "sha256": "d5c9360dfb9db9548da5ce4e7ff3e18b810921c6436eb43e82a22f235dbbd2ac"
+    },
+    {
+      "asset_id": "perplexity",
+      "size": 256,
+      "file": "png/256/perplexity.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 50040,
+      "transparent_fraction": 0.7635,
+      "bbox": [
+        35,
+        23,
+        220,
+        233
+      ],
+      "sha256": "7c6452c78e1a400aa0ea5a3ef54e8ff39855c583fe423c0ee4bda3038aa6ebfa"
+    },
+    {
+      "asset_id": "perplexity",
+      "size": 512,
+      "file": "png/512/perplexity.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 209030,
+      "transparent_fraction": 0.7974,
+      "bbox": [
+        76,
+        51,
+        435,
+        461
+      ],
+      "sha256": "8e9aff845f31a60aff6b668df2fa14e82e288e40ec92b7976c111fc8c388f6a8"
+    },
+    {
+      "asset_id": "twitter",
+      "size": 128,
+      "file": "png/128/twitter.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 11052,
+      "transparent_fraction": 0.6746,
+      "bbox": [
+        10,
+        9,
+        118,
+        119
+      ],
+      "sha256": "0f54e5e6d5a34e94b5684254faa6cc0ca1034fcd834fb8169f6c2be63f40c934"
+    },
+    {
+      "asset_id": "twitter",
+      "size": 256,
+      "file": "png/256/twitter.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 46472,
+      "transparent_fraction": 0.7091,
+      "bbox": [
+        22,
+        20,
+        234,
+        236
+      ],
+      "sha256": "860a198fd1c6dc16d38d26a254b9613275da5b1b6c2c0252e3e51ddd91521c9e"
+    },
+    {
+      "asset_id": "twitter",
+      "size": 512,
+      "file": "png/512/twitter.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 190121,
+      "transparent_fraction": 0.7253,
+      "bbox": [
+        49,
+        45,
+        462,
+        467
+      ],
+      "sha256": "0bd57614538f04959d44f37f2e3df67e4b12b04579da423d15e0d8a6b4633a21"
+    },
+    {
+      "asset_id": "line",
+      "size": 128,
+      "file": "png/128/line.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 9306,
+      "transparent_fraction": 0.568,
+      "bbox": [
+        10,
+        12,
+        118,
+        115
+      ],
+      "sha256": "aa88780ce8fb521d9af5f9c823470703be775656f011ffc75ed36e8a9fd80233"
+    },
+    {
+      "asset_id": "line",
+      "size": 256,
+      "file": "png/256/line.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 39207,
+      "transparent_fraction": 0.5983,
+      "bbox": [
+        23,
+        27,
+        233,
+        228
+      ],
+      "sha256": "42d93981726cd09b1e456b48aeb14c49f0dff96dfc9601c5e2fbe8f7644f8017"
+    },
+    {
+      "asset_id": "line",
+      "size": 512,
+      "file": "png/512/line.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 161646,
+      "transparent_fraction": 0.6166,
+      "bbox": [
+        51,
+        60,
+        461,
+        451
+      ],
+      "sha256": "d6b7f8500e955af69733582c31354fa5e86315833110038816ba904ca214407e"
+    },
+    {
+      "asset_id": "tt",
+      "size": 128,
+      "file": "png/128/tt.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 10735,
+      "transparent_fraction": 0.6552,
+      "bbox": [
+        10,
+        16,
+        118,
+        112
+      ],
+      "sha256": "00c8e3105cad9eff52b6007837b2307c01ddc598077733b36fdd951dc74c66f4"
+    },
+    {
+      "asset_id": "tt",
+      "size": 256,
+      "file": "png/256/tt.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 44961,
+      "transparent_fraction": 0.6861,
+      "bbox": [
+        23,
+        34,
+        233,
+        221
+      ],
+      "sha256": "d9e1ba0ecac9d44b52bcb1b707fa648bada5daff91627087806eb07398778e46"
+    },
+    {
+      "asset_id": "tt",
+      "size": 512,
+      "file": "png/512/tt.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 184458,
+      "transparent_fraction": 0.7037,
+      "bbox": [
+        51,
+        74,
+        461,
+        437
+      ],
+      "sha256": "a845ab3807d47a84bed8b7d42f84ffe6083242dd5fc6b932a6ef4f948dda8005"
+    },
+    {
+      "asset_id": "meta",
+      "size": 128,
+      "file": "png/128/meta.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 12278,
+      "transparent_fraction": 0.7494,
+      "bbox": [
+        10,
+        27,
+        118,
+        101
+      ],
+      "sha256": "9b2ec4d15ee18eea017d93007c83103f0ce67688803d7c15c91c91a3b0ca0c0e"
+    },
+    {
+      "asset_id": "meta",
+      "size": 256,
+      "file": "png/256/meta.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 50970,
+      "transparent_fraction": 0.7777,
+      "bbox": [
+        23,
+        57,
+        233,
+        199
+      ],
+      "sha256": "99d988a9395124b233aad8334ccdce326c4283fc1ef779c126b79584421730c3"
+    },
+    {
+      "asset_id": "meta",
+      "size": 512,
+      "file": "png/512/meta.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 208043,
+      "transparent_fraction": 0.7936,
+      "bbox": [
+        51,
+        119,
+        461,
+        392
+      ],
+      "sha256": "562b47b638899b3200e0ebd3ea6d15c2cac199b8f4a48b05926f8cbb16b81f29"
+    },
+    {
+      "asset_id": "tiktok",
+      "size": 128,
+      "file": "png/128/tiktok.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 10647,
+      "transparent_fraction": 0.6498,
+      "bbox": [
+        14,
+        8,
+        114,
+        120
+      ],
+      "sha256": "181adee0aa3ebd4989ab0ac5ea7e3b4613a9e1d7a0975c9c747feaf62e6f734e"
+    },
+    {
+      "asset_id": "tiktok",
+      "size": 256,
+      "file": "png/256/tiktok.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 43923,
+      "transparent_fraction": 0.6702,
+      "bbox": [
+        30,
+        18,
+        225,
+        238
+      ],
+      "sha256": "37ec2b004184de3525d34d0e1f27aad657dbc079622f67056100849e41694172"
+    },
+    {
+      "asset_id": "tiktok",
+      "size": 512,
+      "file": "png/512/tiktok.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 177931,
+      "transparent_fraction": 0.6788,
+      "bbox": [
+        66,
+        42,
+        445,
+        470
+      ],
+      "sha256": "5810e8313e5f433dbef41af70b4630a7057542b27f1e360d2fc74f3c320dfa21"
+    },
+    {
+      "asset_id": "yahoo",
+      "size": 128,
+      "file": "png/128/yahoo.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 12131,
+      "transparent_fraction": 0.7404,
+      "bbox": [
+        10,
+        17,
+        118,
+        111
+      ],
+      "sha256": "c62f4503de6f5449b6adbaaccc57208dc56b44180e5dcf07f5e0c9321f290ca6"
+    },
+    {
+      "asset_id": "yahoo",
+      "size": 256,
+      "file": "png/256/yahoo.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 50245,
+      "transparent_fraction": 0.7667,
+      "bbox": [
+        23,
+        36,
+        233,
+        220
+      ],
+      "sha256": "bbb79d88ea407cf3f452688c4f401860906b512f83e3f5ac28a1c935800cf1fd"
+    },
+    {
+      "asset_id": "yahoo",
+      "size": 512,
+      "file": "png/512/yahoo.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 204448,
+      "transparent_fraction": 0.7799,
+      "bbox": [
+        51,
+        77,
+        461,
+        434
+      ],
+      "sha256": "2d89e330895f7481f25bdb7da223f9dc6dbc6af657a2215d34898dcf58b71f04"
+    },
+    {
+      "asset_id": "youtube",
+      "size": 128,
+      "file": "png/128/youtube.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 9168,
+      "transparent_fraction": 0.5596,
+      "bbox": [
+        10,
+        25,
+        118,
+        103
+      ],
+      "sha256": "33fff639cf3f4028acab8db6b17377f4c7420db5fc9c32009cbf54719877d470"
+    },
+    {
+      "asset_id": "youtube",
+      "size": 256,
+      "file": "png/256/youtube.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 37997,
+      "transparent_fraction": 0.5798,
+      "bbox": [
+        23,
+        53,
+        233,
+        203
+      ],
+      "sha256": "b6d25fead64fb77c1b6357df89a5bf7b6113532f9a5446be35df711e51f5222a"
+    },
+    {
+      "asset_id": "youtube",
+      "size": 512,
+      "file": "png/512/youtube.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 155361,
+      "transparent_fraction": 0.5927,
+      "bbox": [
+        51,
+        111,
+        461,
+        400
+      ],
+      "sha256": "3d67389f0d2a3b3f46a00073de18d5be1f83593136e34c3612dffc5562b63249"
+    },
+    {
+      "asset_id": "netflix",
+      "size": 128,
+      "file": "png/128/netflix.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 10658,
+      "transparent_fraction": 0.6505,
+      "bbox": [
+        33,
+        10,
+        95,
+        118
+      ],
+      "sha256": "aa80df85996b0acb84bfaf20939ccb70d8f9d0b8ce137c62a6c2064329d216f5"
+    },
+    {
+      "asset_id": "netflix",
+      "size": 256,
+      "file": "png/256/netflix.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 44355,
+      "transparent_fraction": 0.6768,
+      "bbox": [
+        69,
+        23,
+        187,
+        233
+      ],
+      "sha256": "a43d39af6d60a9988a51f62809ba267cc78bd74c8a185c6cb44429c9ea3de0b8"
+    },
+    {
+      "asset_id": "netflix",
+      "size": 512,
+      "file": "png/512/netflix.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 183122,
+      "transparent_fraction": 0.6986,
+      "bbox": [
+        143,
+        51,
+        369,
+        461
+      ],
+      "sha256": "c210518ac276c96abfeee9e14daa8a7cc7b595a7f6d1de2f179c5605c54d5e12"
+    },
+    {
+      "asset_id": "disney-plus",
+      "size": 128,
+      "file": "png/128/disney-plus.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 13070,
+      "transparent_fraction": 0.7977,
+      "bbox": [
+        10,
+        10,
+        118,
+        118
+      ],
+      "sha256": "2d9ead94c05dd3140ac5d34d0452fc83303e2b3e668ced63898a787041d192ad"
+    },
+    {
+      "asset_id": "disney-plus",
+      "size": 256,
+      "file": "png/256/disney-plus.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 54719,
+      "transparent_fraction": 0.8349,
+      "bbox": [
+        23,
+        23,
+        233,
+        233
+      ],
+      "sha256": "f8a1b9138b4c6e758d29aafff2bb1c35dd6d319ece23d6f8e0f58ab52f36bda2"
+    },
+    {
+      "asset_id": "disney-plus",
+      "size": 512,
+      "file": "png/512/disney-plus.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 225156,
+      "transparent_fraction": 0.8589,
+      "bbox": [
+        51,
+        51,
+        461,
+        461
+      ],
+      "sha256": "d5370d8fe12e80339e075550c1c0ee97310b3d8deaa3c0ac21d62e1f4d2f7c88"
+    },
+    {
+      "asset_id": "bilibili",
+      "size": 128,
+      "file": "png/128/bilibili.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 11357,
+      "transparent_fraction": 0.6932,
+      "bbox": [
+        10,
+        16,
+        118,
+        112
+      ],
+      "sha256": "e858c72291016e2b2cccfaf3a5a4564feccad4bc1666d3e5cd319c0f3a91b3f0"
+    },
+    {
+      "asset_id": "bilibili",
+      "size": 256,
+      "file": "png/256/bilibili.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 47625,
+      "transparent_fraction": 0.7267,
+      "bbox": [
+        23,
+        34,
+        233,
+        222
+      ],
+      "sha256": "713a74a2875c27d26316154210bb090ae657d7474a976777731d129142b4e5bb"
+    },
+    {
+      "asset_id": "bilibili",
+      "size": 512,
+      "file": "png/512/bilibili.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 196477,
+      "transparent_fraction": 0.7495,
+      "bbox": [
+        51,
+        73,
+        461,
+        438
+      ],
+      "sha256": "09c110317a72c9263bb71bcca06f97d8f41220876813734e88072f7e8f75417e"
+    },
+    {
+      "asset_id": "china-media",
+      "size": 128,
+      "file": "png/128/china-media.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 14056,
+      "transparent_fraction": 0.8579,
+      "bbox": [
+        10,
+        46,
+        118,
+        82
+      ],
+      "sha256": "57c8eb053bea4264228c373e79d06f06b62773d7f8bddbab199a84f522f0b5ce"
+    },
+    {
+      "asset_id": "china-media",
+      "size": 256,
+      "file": "png/256/china-media.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 57925,
+      "transparent_fraction": 0.8839,
+      "bbox": [
+        23,
+        94,
+        233,
+        162
+      ],
+      "sha256": "fbdaa28a310cfda69ad93104375fc35c7e06431c6dab19e16497511494768d57"
+    },
+    {
+      "asset_id": "china-media",
+      "size": 512,
+      "file": "png/512/china-media.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 235701,
+      "transparent_fraction": 0.8991,
+      "bbox": [
+        51,
+        193,
+        461,
+        319
+      ],
+      "sha256": "44dbad634265d29dad549952e1d6ef5528b158f467b86909a9ed8f188805541b"
+    },
+    {
+      "asset_id": "global-media",
+      "size": 128,
+      "file": "png/128/global-media.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 10280,
+      "transparent_fraction": 0.6274,
+      "bbox": [
+        10,
+        10,
+        118,
+        118
+      ],
+      "sha256": "93b8852048924f6c89cb30787f5e43813969edb52ef3f794cc80afe85655d423"
+    },
+    {
+      "asset_id": "global-media",
+      "size": 256,
+      "file": "png/256/global-media.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 43854,
+      "transparent_fraction": 0.6692,
+      "bbox": [
+        23,
+        23,
+        233,
+        233
+      ],
+      "sha256": "0d80458821e5740d538026f59b87aa65ab7fc7e10d2adbdb34cc6a68e9e71549"
+    },
+    {
+      "asset_id": "global-media",
+      "size": 512,
+      "file": "png/512/global-media.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 181921,
+      "transparent_fraction": 0.694,
+      "bbox": [
+        51,
+        52,
+        461,
+        460
+      ],
+      "sha256": "d68c48fe21824f6c6e15082bbbd7fa887e2747b26bd94d9298df13c4398afb98"
+    },
+    {
+      "asset_id": "spotify",
+      "size": 128,
+      "file": "png/128/spotify.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 8466,
+      "transparent_fraction": 0.5167,
+      "bbox": [
+        10,
+        10,
+        118,
+        118
+      ],
+      "sha256": "27266a2fa8adb8b76059c3855d18ba55f13665fec43eaef87cd3323739a79ce9"
+    },
+    {
+      "asset_id": "spotify",
+      "size": 256,
+      "file": "png/256/spotify.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 36211,
+      "transparent_fraction": 0.5525,
+      "bbox": [
+        23,
+        23,
+        233,
+        233
+      ],
+      "sha256": "fd9cb2d9597ff3e9edf494201abd8cc6cd24dd5d24916fd66602eb8d6f6959f5"
+    },
+    {
+      "asset_id": "spotify",
+      "size": 512,
+      "file": "png/512/spotify.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 149712,
+      "transparent_fraction": 0.5711,
+      "bbox": [
+        51,
+        51,
+        461,
+        461
+      ],
+      "sha256": "2b92e81d6159e6d777ad0eea0eaa41a602fd19e784f927fb58af253c5d192f2c"
+    },
+    {
+      "asset_id": "google",
+      "size": 128,
+      "file": "png/128/google.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 10164,
+      "transparent_fraction": 0.6204,
+      "bbox": [
+        10,
+        10,
+        118,
+        118
+      ],
+      "sha256": "cb4a49aba3b7a8185485e8a4d63bf1bc5a24376693cfd341f018050c92f5459e"
+    },
+    {
+      "asset_id": "google",
+      "size": 256,
+      "file": "png/256/google.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 42432,
+      "transparent_fraction": 0.6475,
+      "bbox": [
+        23,
+        23,
+        233,
+        233
+      ],
+      "sha256": "056a79b59873b9531ae70f57e52c46857daa4add09cc0821c0f7f978643ab11e"
+    },
+    {
+      "asset_id": "google",
+      "size": 512,
+      "file": "png/512/google.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 173840,
+      "transparent_fraction": 0.6631,
+      "bbox": [
+        51,
+        51,
+        461,
+        461
+      ],
+      "sha256": "dcf513798c00a68bfdb7a2e2433c2ee9cc91590fda4057ba248c444547ae03f2"
+    },
+    {
+      "asset_id": "microsoft",
+      "size": 128,
+      "file": "png/128/microsoft.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 5584,
+      "transparent_fraction": 0.3408,
+      "bbox": [
+        10,
+        10,
+        118,
+        118
+      ],
+      "sha256": "80f99a254e61d7ea4e25281f6a0590148e97478c8eae8112a34870c9bf1bf5c7"
+    },
+    {
+      "asset_id": "microsoft",
+      "size": 256,
+      "file": "png/256/microsoft.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 25552,
+      "transparent_fraction": 0.3899,
+      "bbox": [
+        23,
+        23,
+        233,
+        233
+      ],
+      "sha256": "e431d1009e2dad1ef6385641856633a32f4fe7e23e99fcf3dcbdd7e1c9a67c53"
+    },
+    {
+      "asset_id": "microsoft",
+      "size": 512,
+      "file": "png/512/microsoft.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 108484,
+      "transparent_fraction": 0.4138,
+      "bbox": [
+        51,
+        51,
+        461,
+        461
+      ],
+      "sha256": "9f331dba797997ae71f75aeb9ca534b782d63fec34b7a71398914f1448b8f223"
+    },
+    {
+      "asset_id": "cryptocurrency",
+      "size": 128,
+      "file": "png/128/cryptocurrency.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 8243,
+      "transparent_fraction": 0.5031,
+      "bbox": [
+        12,
+        12,
+        116,
+        116
+      ],
+      "sha256": "0a833c7abf81d3371422c3ab2c6919e9acee55fbbf07705a909762dcc0696c14"
+    },
+    {
+      "asset_id": "cryptocurrency",
+      "size": 256,
+      "file": "png/256/cryptocurrency.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 33254,
+      "transparent_fraction": 0.5074,
+      "bbox": [
+        25,
+        25,
+        231,
+        231
+      ],
+      "sha256": "9e97a4c97a41444519b6ef15d949d83cf12148c8d85d79cd991880fc05783c70"
+    },
+    {
+      "asset_id": "cryptocurrency",
+      "size": 512,
+      "file": "png/512/cryptocurrency.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 134120,
+      "transparent_fraction": 0.5116,
+      "bbox": [
+        51,
+        51,
+        461,
+        461
+      ],
+      "sha256": "90974e69a28c8d652d06913b911a12b69957c2b888c4aee534fad77fe11ff0b5"
+    },
+    {
+      "asset_id": "other",
+      "size": 128,
+      "file": "png/128/other.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 9808,
+      "transparent_fraction": 0.5986,
+      "bbox": [
+        10,
+        10,
+        118,
+        118
+      ],
+      "sha256": "b9b86b194a64cf20df85f5e7e9930b0bd848b9815e3e9f8f602bbe1f480ca509"
+    },
+    {
+      "asset_id": "other",
+      "size": 256,
+      "file": "png/256/other.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 42749,
+      "transparent_fraction": 0.6523,
+      "bbox": [
+        23,
+        23,
+        233,
+        233
+      ],
+      "sha256": "7fe4f55dbadba818490ce4e99385ba872d8cf5b54650aa263b3a338d30ac8ee2"
+    },
+    {
+      "asset_id": "other",
+      "size": 512,
+      "file": "png/512/other.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 178617,
+      "transparent_fraction": 0.6814,
+      "bbox": [
+        51,
+        51,
+        461,
+        461
+      ],
+      "sha256": "b02bfdfdff7b61093ec64f856a683affb9fa95251d1fbc2a272e71bd75a688e5"
+    },
+    {
+      "asset_id": "speed-test",
+      "size": 128,
+      "file": "png/128/speed-test.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 12857,
+      "transparent_fraction": 0.7847,
+      "bbox": [
+        10,
+        21,
+        118,
+        107
+      ],
+      "sha256": "6abd93bf249a20e56427e556476a011c959b8a861a292d9634a7b18e16d6a1e4"
+    },
+    {
+      "asset_id": "speed-test",
+      "size": 256,
+      "file": "png/256/speed-test.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 53353,
+      "transparent_fraction": 0.8141,
+      "bbox": [
+        23,
+        44,
+        233,
+        212
+      ],
+      "sha256": "ef3a5a5f431a2914896a5f00af0527307161629c032918e545cdb1cc06f1046d"
+    },
+    {
+      "asset_id": "speed-test",
+      "size": 512,
+      "file": "png/512/speed-test.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 218045,
+      "transparent_fraction": 0.8318,
+      "bbox": [
+        51,
+        93,
+        461,
+        418
+      ],
+      "sha256": "4fee5ba6964757616209a47c160e7a39d7ed7e4a604983b64b270b8ac296510d"
+    },
+    {
+      "asset_id": "pubg",
+      "size": 128,
+      "file": "png/128/pubg.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 11288,
+      "transparent_fraction": 0.689,
+      "bbox": [
+        10,
+        24,
+        118,
+        104
+      ],
+      "sha256": "5135a3c7626b98429980061a86db11cc2752dc058e5e9d79935b0cbe5b23a53b"
+    },
+    {
+      "asset_id": "pubg",
+      "size": 256,
+      "file": "png/256/pubg.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 46729,
+      "transparent_fraction": 0.713,
+      "bbox": [
+        23,
+        50,
+        233,
+        205
+      ],
+      "sha256": "7c0d85cbb156f58a52f4784187c2c6d779a9f9dd83dd96c8d32785fbbca3d456"
+    },
+    {
+      "asset_id": "pubg",
+      "size": 512,
+      "file": "png/512/pubg.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 190891,
+      "transparent_fraction": 0.7282,
+      "bbox": [
+        51,
+        105,
+        461,
+        406
+      ],
+      "sha256": "74e42b5f64156c949b5fe3d020c00c673cd73d74d03d26b2caa053a1d43ae4a5"
+    },
+    {
+      "asset_id": "game",
+      "size": 128,
+      "file": "png/128/game.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 10543,
+      "transparent_fraction": 0.6435,
+      "bbox": [
+        10,
+        26,
+        118,
+        101
+      ],
+      "sha256": "3c994f030eabced755657a66ce2c88ea9fc5434286530f7de605ec93ca3946c4"
+    },
+    {
+      "asset_id": "game",
+      "size": 256,
+      "file": "png/256/game.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 43159,
+      "transparent_fraction": 0.6586,
+      "bbox": [
+        23,
+        55,
+        233,
+        200
+      ],
+      "sha256": "a1219cb4872e3cd00851a42b258a493c8a89e52a0b24f9a6260e3c6bfd024ccd"
+    },
+    {
+      "asset_id": "game",
+      "size": 512,
+      "file": "png/512/game.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 175699,
+      "transparent_fraction": 0.6702,
+      "bbox": [
+        51,
+        116,
+        461,
+        395
+      ],
+      "sha256": "8150735baafd9f1e47f2c9579fdce82fb3d6f7a6c3c27f8a87e455be79ed14b3"
+    },
+    {
+      "asset_id": "final",
+      "size": 128,
+      "file": "png/128/final.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 12784,
+      "transparent_fraction": 0.7803,
+      "bbox": [
+        10,
+        22,
+        118,
+        106
+      ],
+      "sha256": "ff9eb123a6c94e4b4f17b8453c0d2b4f2a3f5a799ac110d07b0b52f38f0d5b9d"
+    },
+    {
+      "asset_id": "final",
+      "size": 256,
+      "file": "png/256/final.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 53307,
+      "transparent_fraction": 0.8134,
+      "bbox": [
+        23,
+        46,
+        233,
+        210
+      ],
+      "sha256": "1dba80e0c2b1fefb6f4a1751ab95c438ae7fed8f66e9babc38bcb6d9134f2771"
+    },
+    {
+      "asset_id": "final",
+      "size": 512,
+      "file": "png/512/final.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 218352,
+      "transparent_fraction": 0.8329,
+      "bbox": [
+        51,
+        98,
+        461,
+        414
+      ],
+      "sha256": "e1abb0e122ca68e92694ed1ac9cc752362550c2701a57ad320735ec2025dc9d9"
+    },
+    {
+      "asset_id": "blueberry",
+      "size": 128,
+      "file": "png/128/blueberry.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 9304,
+      "transparent_fraction": 0.5679,
+      "bbox": [
+        14,
+        10,
+        114,
+        118
+      ],
+      "sha256": "4d419ab72df9b2db415ad7ea1ab832f241306070581cde36aa7a30dafc291695"
+    },
+    {
+      "asset_id": "blueberry",
+      "size": 256,
+      "file": "png/256/blueberry.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 38361,
+      "transparent_fraction": 0.5853,
+      "bbox": [
+        31,
+        23,
+        225,
+        233
+      ],
+      "sha256": "a6d706a9e4578de7f8676728624489302447e617070278f1c4e90984cef55869"
+    },
+    {
+      "asset_id": "blueberry",
+      "size": 512,
+      "file": "png/512/blueberry.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 155898,
+      "transparent_fraction": 0.5947,
+      "bbox": [
+        67,
+        51,
+        445,
+        461
+      ],
+      "sha256": "14080db849d3f8b30c33f4cfe442772063c46fbdf7c6bdd46e47f3ce10023ed9"
+    },
+    {
+      "asset_id": "tomato",
+      "size": 128,
+      "file": "png/128/tomato.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 8438,
+      "transparent_fraction": 0.515,
+      "bbox": [
+        11,
+        10,
+        117,
+        118
+      ],
+      "sha256": "bda863eabdce4e70c7ed60ca5b3cb2ad863a62d50bf1d82198a20a895b96d195"
+    },
+    {
+      "asset_id": "tomato",
+      "size": 256,
+      "file": "png/256/tomato.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 34927,
+      "transparent_fraction": 0.5329,
+      "bbox": [
+        25,
+        23,
+        231,
+        233
+      ],
+      "sha256": "4f21f7e243ef2a5c521e6d5458f284d952d0d8f781d00d9043a7976bfa9a286d"
+    },
+    {
+      "asset_id": "tomato",
+      "size": 512,
+      "file": "png/512/tomato.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 142385,
+      "transparent_fraction": 0.5432,
+      "bbox": [
+        56,
+        51,
+        456,
+        461
+      ],
+      "sha256": "9228c83deff1f54c3d1dfeab3ad0a5a18a599590093f1904e5e0791d44c67442"
+    },
+    {
+      "asset_id": "carrot",
+      "size": 128,
+      "file": "png/128/carrot.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 11386,
+      "transparent_fraction": 0.6949,
+      "bbox": [
+        10,
+        11,
+        118,
+        117
+      ],
+      "sha256": "30d3f2bacf9d60d11ce91552da665c080cf6f28467615dc442eaf523f18284db"
+    },
+    {
+      "asset_id": "carrot",
+      "size": 256,
+      "file": "png/256/carrot.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 46624,
+      "transparent_fraction": 0.7114,
+      "bbox": [
+        23,
+        24,
+        233,
+        232
+      ],
+      "sha256": "6ab8de7c210fa825cd5cb26da3e35198dab4e1c52ff9be239fc56569d1ec6464"
+    },
+    {
+      "asset_id": "carrot",
+      "size": 512,
+      "file": "png/512/carrot.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 188737,
+      "transparent_fraction": 0.72,
+      "bbox": [
+        51,
+        53,
+        461,
+        458
+      ],
+      "sha256": "eb782f390f5fb081a7ae36963815bdd20b48848146c324a69ef0cd823607675c"
+    },
+    {
+      "asset_id": "grape",
+      "size": 128,
+      "file": "png/128/grape.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 9102,
+      "transparent_fraction": 0.5555,
+      "bbox": [
+        11,
+        10,
+        116,
+        118
+      ],
+      "sha256": "1510c048106eecac50ec3d9b8462f6228d1ed94ffb36e0dc4e911e8c738a071f"
+    },
+    {
+      "asset_id": "grape",
+      "size": 256,
+      "file": "png/256/grape.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 37662,
+      "transparent_fraction": 0.5747,
+      "bbox": [
+        25,
+        23,
+        230,
+        233
+      ],
+      "sha256": "d24de0a47d443164fc9d9db7a6ebc3da6fd8e2eda1a080a220e054ab40ebf2a0"
+    },
+    {
+      "asset_id": "grape",
+      "size": 512,
+      "file": "png/512/grape.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 153335,
+      "transparent_fraction": 0.5849,
+      "bbox": [
+        56,
+        51,
+        455,
+        461
+      ],
+      "sha256": "6a0d34790164112b8374cadc61d9c4acbb78f5de858ed19e6b2f85525bcb6b43"
+    },
+    {
+      "asset_id": "cherry",
+      "size": 128,
+      "file": "png/128/cherry.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 10883,
+      "transparent_fraction": 0.6642,
+      "bbox": [
+        17,
+        10,
+        111,
+        118
+      ],
+      "sha256": "52b2a4ea4f29c3a775b16ce141afbc8c69e36060d5aca387167ef97adf39ea90"
+    },
+    {
+      "asset_id": "cherry",
+      "size": 256,
+      "file": "png/256/cherry.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 45202,
+      "transparent_fraction": 0.6897,
+      "bbox": [
+        37,
+        23,
+        219,
+        233
+      ],
+      "sha256": "beb2fa9e32df9b373f491270e89726c9a491fbcc469c7c25037878e1c58aad2b"
+    },
+    {
+      "asset_id": "cherry",
+      "size": 512,
+      "file": "png/512/cherry.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 184369,
+      "transparent_fraction": 0.7033,
+      "bbox": [
+        79,
+        51,
+        432,
+        461
+      ],
+      "sha256": "0023d37cb9446157c7653d727a5d0008817559c66ea37bdbbe285755d114d4b1"
+    },
+    {
+      "asset_id": "mango",
+      "size": 128,
+      "file": "png/128/mango.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 8358,
+      "transparent_fraction": 0.5101,
+      "bbox": [
+        10,
+        13,
+        118,
+        115
+      ],
+      "sha256": "18803e98546fa3e92e2bf08050cea5334b0d485da8989c3dad878ed44ff6263c"
+    },
+    {
+      "asset_id": "mango",
+      "size": 256,
+      "file": "png/256/mango.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 34490,
+      "transparent_fraction": 0.5263,
+      "bbox": [
+        23,
+        29,
+        233,
+        227
+      ],
+      "sha256": "6694a70e9d4fb249d11ba66e3463f249528d21ffe6d7f02f9edfd41cb61b7353"
+    },
+    {
+      "asset_id": "mango",
+      "size": 512,
+      "file": "png/512/mango.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 140232,
+      "transparent_fraction": 0.5349,
+      "bbox": [
+        51,
+        63,
+        461,
+        449
+      ],
+      "sha256": "46cbc2b8a6e4faea85655cf7db8795002e3d6c1f04bd3be918d83c6126d2fbd6"
+    },
+    {
+      "asset_id": "pear",
+      "size": 128,
+      "file": "png/128/pear.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 11004,
+      "transparent_fraction": 0.6716,
+      "bbox": [
+        17,
+        10,
+        111,
+        118
+      ],
+      "sha256": "78bdb2af2116e058d235b63e60fb12610c273f94032d8f6411c7019bfca0f4e7"
+    },
+    {
+      "asset_id": "pear",
+      "size": 256,
+      "file": "png/256/pear.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 45018,
+      "transparent_fraction": 0.6869,
+      "bbox": [
+        36,
+        23,
+        220,
+        233
+      ],
+      "sha256": "4183431ed7e3931a91f6938e6bea11ea8119015783fb1522dfea4550c8b7bad9"
+    },
+    {
+      "asset_id": "pear",
+      "size": 512,
+      "file": "png/512/pear.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 182238,
+      "transparent_fraction": 0.6952,
+      "bbox": [
+        78,
+        51,
+        434,
+        461
+      ],
+      "sha256": "5862560dc5e4d8a4e3e6deedc0d3733ec8a9d012e5c284db974dd02f03c7b924"
+    },
+    {
+      "asset_id": "banana",
+      "size": 128,
+      "file": "png/128/banana.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 10964,
+      "transparent_fraction": 0.6692,
+      "bbox": [
+        13,
+        10,
+        115,
+        118
+      ],
+      "sha256": "c6d290b7a39f737335974f6dc9a7076239491da2234f79e44f4d4dc8965d9285"
+    },
+    {
+      "asset_id": "banana",
+      "size": 256,
+      "file": "png/256/banana.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 45520,
+      "transparent_fraction": 0.6946,
+      "bbox": [
+        29,
+        23,
+        227,
+        233
+      ],
+      "sha256": "23435cabb1b646d9beb9a51d46f90abc8837c168cdaa96c3f2e401bad6130b48"
+    },
+    {
+      "asset_id": "banana",
+      "size": 512,
+      "file": "png/512/banana.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 185433,
+      "transparent_fraction": 0.7074,
+      "bbox": [
+        63,
+        51,
+        448,
+        461
+      ],
+      "sha256": "f8c0b4d7b759a9c865bd36ce00e9411f59e41a89f78366d4acb967b72d5f9380"
+    },
+    {
+      "asset_id": "peach",
+      "size": 128,
+      "file": "png/128/peach.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 7881,
+      "transparent_fraction": 0.481,
+      "bbox": [
+        11,
+        10,
+        117,
+        118
+      ],
+      "sha256": "99469317c3a4ea178b5ce473ee96810da98ba2606fb1160611f0df4ef718e02d"
+    },
+    {
+      "asset_id": "peach",
+      "size": 256,
+      "file": "png/256/peach.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 32676,
+      "transparent_fraction": 0.4986,
+      "bbox": [
+        25,
+        23,
+        231,
+        233
+      ],
+      "sha256": "cf79800db76060611c0ad7860f0e6f696daf29e775e9f521f3208653cb6313ef"
+    },
+    {
+      "asset_id": "peach",
+      "size": 512,
+      "file": "png/512/peach.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 133198,
+      "transparent_fraction": 0.5081,
+      "bbox": [
+        55,
+        51,
+        456,
+        461
+      ],
+      "sha256": "1433b3ab665aeb9e5bf18968a432a4f956358fd25a81bc0502c2937072494aec"
+    },
+    {
+      "asset_id": "orange",
+      "size": 128,
+      "file": "png/128/orange.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 8371,
+      "transparent_fraction": 0.5109,
+      "bbox": [
+        10,
+        10,
+        118,
+        118
+      ],
+      "sha256": "014e5991959831b2ca6a3806c6067eaa4033a280e46dc2c7b0216323a53326d0"
+    },
+    {
+      "asset_id": "orange",
+      "size": 256,
+      "file": "png/256/orange.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 34644,
+      "transparent_fraction": 0.5286,
+      "bbox": [
+        23,
+        23,
+        233,
+        233
+      ],
+      "sha256": "d97203fb56c810c7fe9eabda304421eff6a1f66ef4dd425bf2bc04627a7512d5"
+    },
+    {
+      "asset_id": "orange",
+      "size": 512,
+      "file": "png/512/orange.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 141115,
+      "transparent_fraction": 0.5383,
+      "bbox": [
+        51,
+        52,
+        461,
+        460
+      ],
+      "sha256": "24658c47ea5d27ede872327d0840088e0fda8ee65c006f20521d149caf1165c9"
+    },
+    {
+      "asset_id": "raspberry",
+      "size": 128,
+      "file": "png/128/raspberry.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 9894,
+      "transparent_fraction": 0.6039,
+      "bbox": [
+        21,
+        10,
+        107,
+        118
+      ],
+      "sha256": "58df9d9f9f405a585a46b537b71de06403d1067f1a4f56ce34901805ca805f90"
+    },
+    {
+      "asset_id": "raspberry",
+      "size": 256,
+      "file": "png/256/raspberry.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 40701,
+      "transparent_fraction": 0.621,
+      "bbox": [
+        44,
+        23,
+        212,
+        233
+      ],
+      "sha256": "034af8e5ed4780688e4322f940f74bcfa1966719ad8797612d75ac750268a86b"
+    },
+    {
+      "asset_id": "raspberry",
+      "size": 512,
+      "file": "png/512/raspberry.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 165240,
+      "transparent_fraction": 0.6303,
+      "bbox": [
+        93,
+        51,
+        418,
+        461
+      ],
+      "sha256": "e8d002922867c3e430cd88f24161616d7a5cf214f0910a7511e4ffd4f65c2c0a"
+    },
+    {
+      "asset_id": "acorn",
+      "size": 128,
+      "file": "png/128/acorn.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 10628,
+      "transparent_fraction": 0.6487,
+      "bbox": [
+        19,
+        10,
+        109,
+        118
+      ],
+      "sha256": "00642c02a97311ad089129b7fb31542479c252c978f4166be5e8249a2651c92d"
+    },
+    {
+      "asset_id": "acorn",
+      "size": 256,
+      "file": "png/256/acorn.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 43522,
+      "transparent_fraction": 0.6641,
+      "bbox": [
+        41,
+        23,
+        215,
+        233
+      ],
+      "sha256": "108998149eae753cc028c0fe2ef8ef64c237b3406a01bad30cac89b00b1af314"
+    },
+    {
+      "asset_id": "acorn",
+      "size": 512,
+      "file": "png/512/acorn.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 176104,
+      "transparent_fraction": 0.6718,
+      "bbox": [
+        87,
+        51,
+        425,
+        461
+      ],
+      "sha256": "6cd5e6ea4ae698dda8c336dbffe62fbb4e7f0835fa0dadbb64eef4fc860b147e"
+    },
+    {
+      "asset_id": "main-a",
+      "size": 128,
+      "file": "png/128/main-a.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 11018,
+      "transparent_fraction": 0.6725,
+      "bbox": [
+        10,
+        10,
+        118,
+        118
+      ],
+      "sha256": "a339aa999815132994441bc2e1b70b3e71b2553613b6da59ec6019ac15e53e1a"
+    },
+    {
+      "asset_id": "main-a",
+      "size": 256,
+      "file": "png/256/main-a.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 46591,
+      "transparent_fraction": 0.7109,
+      "bbox": [
+        23,
+        23,
+        233,
+        233
+      ],
+      "sha256": "a83ff937575649b5e22fc83d768b9abda9aa75c0848194769d2127330946b41a"
+    },
+    {
+      "asset_id": "main-a",
+      "size": 512,
+      "file": "png/512/main-a.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 191438,
+      "transparent_fraction": 0.7303,
+      "bbox": [
+        51,
+        51,
+        461,
+        461
+      ],
+      "sha256": "12e03e19002c596e3a6cdecc430c5bf879a85850fb7fd5a93d7432f4079fe0d4"
+    },
+    {
+      "asset_id": "main-b",
+      "size": 128,
+      "file": "png/128/main-b.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 11012,
+      "transparent_fraction": 0.6721,
+      "bbox": [
+        10,
+        10,
+        118,
+        118
+      ],
+      "sha256": "e0a8484ccf0e51a137f7ec321fa3932c37b4f66169117d2352a17953b47ecb54"
+    },
+    {
+      "asset_id": "main-b",
+      "size": 256,
+      "file": "png/256/main-b.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 46636,
+      "transparent_fraction": 0.7116,
+      "bbox": [
+        23,
+        23,
+        233,
+        233
+      ],
+      "sha256": "2237761c06d26df6340b21a56719dfde375c3a965eb6c41f9a908f03a2c08119"
+    },
+    {
+      "asset_id": "main-b",
+      "size": 512,
+      "file": "png/512/main-b.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 191396,
+      "transparent_fraction": 0.7301,
+      "bbox": [
+        51,
+        51,
+        461,
+        461
+      ],
+      "sha256": "7e67038663cd03975684724eff1d792c3e52963c27a783f479d9d7043ccc8676"
+    },
+    {
+      "asset_id": "backup",
+      "size": 128,
+      "file": "png/128/backup.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 12091,
+      "transparent_fraction": 0.738,
+      "bbox": [
+        17,
+        10,
+        110,
+        118
+      ],
+      "sha256": "287962f2333c51d7c7301220fa76e591645adcef4a9b27be6abb00901be388bc"
+    },
+    {
+      "asset_id": "backup",
+      "size": 256,
+      "file": "png/256/backup.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 50927,
+      "transparent_fraction": 0.7771,
+      "bbox": [
+        37,
+        23,
+        218,
+        233
+      ],
+      "sha256": "d9db97c2d3a4884bbce123dd1c2f4855e95fe2a5abdd697255cf6e69798ecb9f"
+    },
+    {
+      "asset_id": "backup",
+      "size": 512,
+      "file": "png/512/backup.png",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 209510,
+      "transparent_fraction": 0.7992,
+      "bbox": [
+        80,
+        51,
+        431,
+        461
+      ],
+      "sha256": "45e0a9d55bdd55817393f7694bcdb64d2caed8444180d7424f66f4c4037e5061"
+    }
+  ]
+}
