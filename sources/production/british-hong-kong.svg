@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>British Hong Kong (1959-1997) circular flag — flat Surge icon</title>
+<desc>Original stylized round icon based on historical British Hong Kong blue ensign. Transparent outer background.</desc>
+<defs>
+ <clipPath id="round"><circle cx="256" cy="256" r="246"/></clipPath>
+ <clipPath id="uk"><rect x="10" y="10" width="267" height="224"/></clipPath>
+</defs>
+<g clip-path="url(#round)">
+ <circle cx="256" cy="256" r="246" fill="#00247D"/>
+ <!-- Union Jack canton, proportion adjusted for circular format -->
+ <g clip-path="url(#uk)">
+  <rect x="10" y="10" width="267" height="224" fill="#012169"/>
+  <path d="M0 -5L292 251M290 -5L0 251" fill="none" stroke="#FFFFFF" stroke-width="52"/>
+  <path d="M0 -5L292 251M290 -5L0 251" fill="none" stroke="#C8102E" stroke-width="21"/>
+  <path d="M143 -20V255M-10 122H295" fill="none" stroke="#FFFFFF" stroke-width="65"/>
+  <path d="M143 -20V255M-10 122H295" fill="none" stroke="#C8102E" stroke-width="34"/>
+ </g>
+ <!-- historic crest medallion: readable at small strategy group sizes -->
+ <circle cx="331" cy="314" r="118" fill="#FFFFFF"/>
+ <g transform="translate(331 313) scale(0.93)">
+  <!-- Golden lion rampant to the left, with upright tail and limbs -->
+  <g fill="#CE9B25" stroke="#76521A" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round">
+   <path d="M-67 39C-83 29-80 16-75 4C-79-15-64-22-54-14C-48-5-53 5-56 12C-50 20-40 20-37 30C-34 42-43 53-53 52L-48 70L-60 74L-68 55L-80 66L-90 58L-72 37Z"/>
+   <path d="M-76 1C-96-13-91-35-87-44C-98-32-101-14-94 1C-89 12-83 14-79 16" fill="none" stroke="#CE9B25" stroke-width="9"/>
+   <path d="M-68-9L-75-27L-64-22L-59-36L-52-23L-43-29L-43-12Z"/>
+   <path d="M-52 13L-28-1L-16-8L-11 1L-28 12L-37 27M-58 46L-40 54L-36 66L-48 69L-61 55" fill="none" stroke="#CE9B25" stroke-width="11"/>
+   <circle cx="-60" cy="-6" r="3" fill="#4F3219" stroke="none"/>
+  </g>
+  <!-- golden dragon curled on right; horns, neck, tail, claws -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path d="M45-11C75-30 90-9 83 11C79 29 50 21 49 36C48 45 75 46 75 63C75 74 60 81 50 75" stroke="#B9841E" stroke-width="22"/>
+   <path d="M45-12C75-30 90-9 83 11C79 29 50 21 49 36C48 45 75 46 75 63C75 74 60 81 50 75" stroke="#D8AA32" stroke-width="15"/>
+   <path d="M42-10L28-22M37-9L29 2M75-18L86-40M84-17L103-26M86 10L103 2M63 29L86 34M54 45L32 54M67 62L91 70" stroke="#A77615" stroke-width="8"/>
+   <path d="M45 -8L35 -25L51 -27L59 -37L67 -26L78 -23" fill="#D2A032" stroke="#7D5519" stroke-width="2.6"/>
+   <path d="M54-28L47-46M63-34L68-49" stroke="#D2A032" stroke-width="6"/>
+   <circle cx="53" cy="-18" r="3.2" fill="#4F3219" stroke="none"/>
+  </g>
+  <!-- crest: crowned lion on the top -->
+  <g fill="#CDA032" stroke="#815C21" stroke-width="2.1" stroke-linejoin="round">
+    <path d="M-12-64C-18-76-12-88 2-88C15-88 20-74 12-62L20-52L16-43L-18-43L-23-52Z"/>
+    <path d="M-20-85L-24-104L-13-97L-8-112L0-99L10-112L15-97L25-104L19-85Z"/>
+    <rect x="-24" y="-88" width="48" height="6" rx="2" fill="#B82B2F"/>
+    <path d="M-15-47L-36-35L-38-42L-21-58M8-48L27-36L37-39L29-47" fill="none" stroke="#CDA032" stroke-width="7"/>
+    <circle cx="7" cy="-74" r="2.5" fill="#583719" stroke="none"/>
+  </g>
+  <!-- central shield, red fortifications and harbour -->
+  <g transform="translate(0 8)">
+  <path d="M-35-44H35V16C35 40 17 56 0 65C-16 56-35 40-35 16Z" fill="#F6F6EF" stroke="#8F6B20" stroke-width="4"/>
+  <path d="M-31-40H31V-2H-31Z" fill="#B92D31"/>
+  <path d="M-29-32H29M-29-19H29" stroke="#FFF6DA" stroke-width="3"/>
+  <rect x="-6" y="-25" width="13" height="23" rx="1" fill="#EEE5CD"/>
+  <path d="M-31 4H31V21C31 40 14 52 0 60C-13 52-31 39-31 21Z" fill="#6EBAE1"/>
+  <path d="M-32 30Q-20 24-7 30T20 30T32 30M-27 43Q-13 38 0 43T27 43" fill="none" stroke="#FFFFFF" stroke-width="3.5"/>
+  <!-- harbor junk ship silhouette -->
+  <path d="M-22 23H22L15 31H-15Z" fill="#744726"/>
+  <path d="M-2 3V23M3 5L17 22H3Z" stroke="#754C21" stroke-width="2" fill="#F4E7C1"/>
+  </g>
+  <!-- heraldic scroll -->
+  <path d="M-94 82Q-48 99 0 82Q46 100 96 81L93 95Q50 118 0 101Q-49 117-94 95Z" fill="#D7A93A" stroke="#84621C" stroke-width="2"/>
+  <path d="M-86 91Q0 107 86 91" stroke="#8F671E" fill="none" stroke-width="2" stroke-dasharray="4 5"/>
+ </g>
+</g>
+</svg>
